@@ -24,9 +24,9 @@ The XML file I started with for this Japanese language pack, was the Vietnamese 
 
 Once all of the Vietnamese is changed to Japanese, the rest of the CDATA words in English can be translated, but that doesn't need to take priority.
 
-Look at this;
+Look at this; 
 
-<phrase title="save_changes" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Lưu thay đổi]]></phrase>
+     <phrase title="save_changes" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Lưu thay đổi]]></phrase>
 
 The English phrase is 'save_changes'.  The 'Lưu thay đổi' is what you overwrite with Japanese.
 
