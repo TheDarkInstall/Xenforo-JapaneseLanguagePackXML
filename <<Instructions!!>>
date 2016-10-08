@@ -10,27 +10,25 @@ Instructions.
 
 Now for the fun bit.  This is how you do it.
 
-1.  Look in the repository.  You will see a load of files named ‘JapaneseA.xml’ through to ‘JapaneseZ.xml’.  Any letters of the alphabet you see missing, will have been completed, so don't worry if you think something is not there.
+1.  Look in the repository.  You will see a load of files named ‘JapaneseA.xml’ through to ‘JapaneseZ.xml’.
 
 3.  Open one of these A - Z files, and have a look inside.  It looks complex, but fear not, it is easy!
 
-5.  You will be translating the English that appears on the left and replacing the text that appears on the right, of each line, with Japanese.  Now, at first glance, it will appear that there is a LOT to do.  There isn’t.  Some lines need translating.  Some don’t.  In fact, most of them don’t!  
+5.  You will be translating the English that appears on the left in the 'phrase title' element, and replacing the text that appears on the right, in the 'CDATA' element, with Japanese.  Now, at first glance, it will appear that there is a LOT to do.  There isn’t.  Some lines need translating.  Some don’t.  In fact, most of them don’t!  
 
 Here is how it works.
   
-Look at this;
+The XML file I started with for this Japanese language pack, was the Vietnamese language pack, so the words and phrases you need to change will be in Vietnamese.  Any CDATA words or phrases which are in English, just leave, as they are not the priority to translate.
 
-<phrase title="save_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Template]]></phrase>
-
-The element on the far left, 'phrase title', in this case "save_template", is the English word or phrase you will be translating.  Look to the right, and you will see 'CDATA[Save Template].  It is this part that you need to translate to Japanese.  Change the word only; do not delete the '[' or ']' which surround the word.  And that is it!
-
-The XML file I started with, for this Japanese language pack, was the Vietnamese language pack, so a lot of the words and phrases you need to change will be in Vietnamese; just overwrite these.
+Once all of the Vietnamese is changed to Japanese, the rest of the CDATA words in English can be translated, but that doesn't need to take priority.
 
 Look at this;
 
 <phrase title="save_changes" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Lưu thay đổi]]></phrase>
 
 The English phrase is 'save_changes'.  The 'Lưu thay đổi' is what you overwrite with Japanese.
+
+Any words
 
 Got it?
 
