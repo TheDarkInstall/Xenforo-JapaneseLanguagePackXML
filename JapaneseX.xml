@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<phrase title="xenforo_admin_control_panel_requires_javascript" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The XenForo Admin Control Panel requires JavaScript. Please enable it before proceeding.]]></phrase>
+  <phrase title="xenforo_copyright" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[<a href="http://xenforo.com" class="concealed">XenForoのフォーラムソフト&trade; <span>&copy;2010-2013 XenForo Ltd.</span></a>]]></phrase>
+  <phrase title="xenforo_logo" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[XenForo Logo]]></phrase>
+  <phrase title="xs_recent_activity" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name}'s Recent Activity]]></phrase>
+  <phrase title="x_also_commented_on_ys_profile_post" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}も{poster}の<a {poster_params}>プロフィールポスト</a>にコメントを入れました]></phrase>
+  <phrase title="x_also_commented_on_ys_status" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}も{poster}の<a {poster_params}>ステータス</a>にコメントを入れました]></phrase>
+  <phrase title="x_attached_a_file_to_thread_y_may_be_more" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[{name} attached a file to the thread {title}. There may be more posts after this.]]></phrase>
+  <phrase title="x_bytes" addon_id="XenForo" global_cache="1" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{size} bytes]]></phrase>
+  <phrase title="x_commented_on_your_post_on_ys_profile" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}があなたの{profile}のプロフィールに投稿した<a {post_params}ポスト</a>にコメントを入れました。]]></phrase>
+  <phrase title="x_commented_on_your_status" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}があなたの<a {status_attributes}>ステータス</a>にコメントを入れました]]></phrase>
+  <phrase title="x_commented_on_ys_post_on_your_profile" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}は{poster}があなたのプロフィールに残した<a {post_attributes}>ポスト</a>にコメントを入れました。]]></phrase>
+  <phrase title="x_does_not_follow_anyone" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}は誰もフォローしていないです。]]></phrase>
+  <phrase title="x_for_one_day" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} for 1 day]]></phrase>
+  <phrase title="x_for_one_month" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} for 1 month]]></phrase>
+  <phrase title="x_for_one_year" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} for 1 year]]></phrase>
+  <phrase title="x_for_y_days" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} for {length} days]]></phrase>
+  <phrase title="x_for_y_months" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} for {length} months]]></phrase>
+  <phrase title="x_for_y_years" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} for {length} years]]></phrase>
+  <phrase title="x_has_not_been_awarded_any_trophies_yet" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} has not been awarded any trophies yet.]]></phrase>
+  <phrase title="x_has_not_posted_any_content_recently" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} has not posted any content recently.]]></phrase>
+  <phrase title="x_hours" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{count}時間]]></phrase>
+  <phrase title="x_is_a_y_at_z" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[{name} is a {title} at {location}]]></phrase>
+  <phrase title="x_is_being_followed_by_y_members" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}は{count}メンバーにフォローされています。]]></phrase>
+  <phrase title="x_is_following_y_members" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{name}は{count}メンバーをフォローしています。]></phrase>
+  <phrase title="x_kb" addon_id="XenForo" global_cache="1" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{size} KB]]></phrase>
+  <phrase title="x_liked_your_post_in_the_thread_y" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{name}があなたが{title}というスレッドに投稿したポストをLIKEしました。]]></phrase>
+  <phrase title="x_liked_your_post_on_ys_profile" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}があなたの{profile}のプロフィールに投稿した<a {post_attributes}>ポスト</a>をLIKEしました。]]></phrase>
+  <phrase title="x_liked_your_status" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}はあなたが{status_attributes}ということをLIKEしました。]]></phrase>
+  <phrase title="x_liked_ys_post_in_the_thread_z" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{name}が{poster}の{title}というスレッドに投稿した<a {posterParams}>ポスト</a>をLIKEしました。]]></phrase>
+  <phrase title="x_liked_ys_post_on_your_profile" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[{name}は{poster}のあなたのプロフィールに投稿した<a {post_params}>ポスト</a>をLIKEしました。]]></phrase>
+  <phrase title="x_liked_ys_post_on_zs_profile" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[{name}が{poster}の{profile}に投稿した<a {post_params}>ポスト</a>をLIKEしました]]></phrase>
+  <phrase title="x_liked_ys_status" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}が{poster}の<a {status_params}>ステータス</a>をLIKEしました。]]></phrase>
+  <phrase title="x_mb" addon_id="XenForo" global_cache="1" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[{size} MB]]></phrase>
+  <phrase title="x_minutes" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{count}分]]></phrase>
+  <phrase title="x_minutes_ago" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{minutes}分]]></phrase>
+  <phrase title="x_more_messages" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{count} more messages]]></phrase>
+  <phrase title="x_per_day" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} per day]]></phrase>
+  <phrase title="x_per_month" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} per month]]></phrase>
+  <phrase title="x_per_year" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} per year]]></phrase>
+  <phrase title="x_per_y_days" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} per {length} days]]></phrase>
+  <phrase title="x_per_y_months" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} per {length} months]]></phrase>
+  <phrase title="x_per_y_years" addon_id="XenForo" version_id="0" version_string=""><![CDATA[{cost} per {length} years]]></phrase>
+  <phrase title="x_pixels" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{size} pixels]]></phrase>
+  <phrase title="x_quoted_your_post_in_thread_y" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{name}はあなたが{title}というスレッドに投稿したポストを引用しました]]></phrase>
+  <phrase title="x_replied_to_thread_y_may_be_more" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{name}は{title}というスレッドに投稿しました。そして、その投稿より新しい投稿があるかもしれません。]]></phrase>
+  <phrase title="x_replies" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{count}返事]]></phrase>
+  <phrase title="x_restricts_who_may_view_their_recent_activity" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} restricts who may view their recent activity.]]></phrase>
+  <phrase title="x_said" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name} said]]></phrase>
+  <phrase title="x_seconds" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{time} seconds]]></phrase>
+  <phrase title="x_tags_only_used_where_full_statements_allowed" addon_id="XenForo" version_id="0" version_string=""><![CDATA[&lt;xf:{tag}&gt; tags can only be used where full statements are allowed.]]></phrase>
+  <phrase title="x_threads_will_be_deleted_when_these_posts_deleted" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[{count} thread(s) will be deleted when these posts are deleted.]]></phrase>
+  <phrase title="x_total_votes" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{count} total votes.]]></phrase>
+  <phrase title="x_votes" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{count} vote(s)]]></phrase>
+  <phrase title="x_votes_plural" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[{count}票]]></phrase>
+  <phrase title="x_was_banned_by_y" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[{name} was banned by {banning_user}]]></phrase>
+  <phrase title="x_was_last_seen" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{username}は最後に見かけたのが]]></phrase>

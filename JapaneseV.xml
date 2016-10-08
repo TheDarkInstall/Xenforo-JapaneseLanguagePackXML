@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<phrase title="valid" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Valid]]></phrase>
+  <phrase title="validate_configuration" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Validate Configuration]]></phrase>
+  <phrase title="validating_user_group_id" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Validating User Group ID]]></phrase>
+  <phrase title="validation_callback" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Validation Callback]]></phrase>
+  <phrase title="value_a_z_0_9_and_only" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Value (A-Z, 0-9, and _ only)]]></phrase>
+  <phrase title="value_display_html" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Value Display HTML]]></phrase>
+  <phrase title="value_match_requirements" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Value Match Requirements]]></phrase>
+  <phrase title="value_represents_internal_value_for_choice_text_is_displayed" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[The value represents the internal value for the choice. The text field is shown when the field is displayed.]]></phrase>
+  <phrase title="variable_name" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Variable Name]]></phrase>
+  <phrase title="verification" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[検証]]></phrase>
+  <phrase title="version_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Version ID]]></phrase>
+  <phrase title="version_string" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Version String]]></phrase>
+  <phrase title="via_twitter_account" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Via Account: @...]]></phrase>
+  <phrase title="view" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Xem]]></phrase>
+  <phrase title="viewable_by" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Viewable by]]></phrase>
+  <phrase title="viewable_in_message_user_info" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Viewable in message user info]]></phrase>
+  <phrase title="viewable_on_profile_pages" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Viewable on profile pages]]></phrase>
+  <phrase title="viewing_attachment" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Viewing attachment]]></phrase>
+  <phrase title="viewing_category" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Viewing category]]></phrase>
+  <phrase title="viewing_forum" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォーラムをご覧になっている]]></phrase>
+  <phrase title="viewing_forum_list" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォーラム リストをご覧になっている]]></phrase>
+  <phrase title="viewing_help" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Viewing help]]></phrase>
+  <phrase title="viewing_latest_content" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Viewing latest content]]></phrase>
+  <phrase title="viewing_list_of_online_members" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[オンライン中のメンバーリストを閲覧]]></phrase>
+  <phrase title="viewing_members" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[メンバーの閲覧]]></phrase>
+  <phrase title="viewing_member_profile" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[メンバーのプロフィールを閲覧]]></phrase>
+  <phrase title="viewing_page" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Viewing page]]></phrase>
+  <phrase title="viewing_thread" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スレッドを閲覧]]></phrase>
+  <phrase title="viewing_unknown_page" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[非公開ページの閲覧]]></phrase>
+  <phrase title="views" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[ビューの数]]></phrase>
+  <phrase title="view_all_available_trophies" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[すべてのトロフィーを表示する]]></phrase>
+  <phrase title="view_all_your_conversations" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[View all Your Conversations]]></phrase>
+  <phrase title="view_attachment_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[View attachment {name}]]></phrase>
+  <phrase title="view_class_criteria_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[The name of the view class that rendered the current page.]]></phrase>
+  <phrase title="view_class_is" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[View Class is]]></phrase>
+  <phrase title="view_conversations" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[会話を表示する]]></phrase>
+  <phrase title="view_full_list" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[View full list]]></phrase>
+  <phrase title="view_host_content" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[View Host Content]]></phrase>
+  <phrase title="view_most_recent_comments" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[View most recent comments]]></phrase>
+  <phrase title="view_postings" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[View postings]]></phrase>
+  <phrase title="view_previous_comments" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[View previous comments]]></phrase>
+  <phrase title="view_results" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[View Results]]></phrase>
+  <phrase title="view_them" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[View them?]]></phrase>
+  <phrase title="view_this_conversation" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[View this Conversation]]></phrase>
+  <phrase title="view_this_thread" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[View this Thread]]></phrase>
+  <phrase title="view_this_users_identities" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[View this user's identities]]></phrase>
+  <phrase title="view_this_users_profile_page_details" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[View this user's profile page details]]></phrase>
+  <phrase title="view_to_first_message_in_thread" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[View to first message in thread]]></phrase>
+  <phrase title="view_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[View Users]]></phrase>
+  <phrase title="view_warning" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[View Warning]]></phrase>
+  <phrase title="view_your_details_on_your_profile_page" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[あなたのプロフィールページに載っている情報を表示]]></phrase>
+  <phrase title="view_your_identities" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[あなたのアイデンティティを表示する]]></phrase>
+  <phrase title="view_your_profile" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[あなたのプロフィールを表示する]]></phrase>
+  <phrase title="visible" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[表示されています。]]></phrase>
+  <phrase title="visited_since_date" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Visited since date]]></phrase>
+  <phrase title="visits_in_last_hour_may_not_be_considered" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Visits in the last hour may not be considered.]]></phrase>
+  <phrase title="visit_site" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Visit Site]]></phrase>

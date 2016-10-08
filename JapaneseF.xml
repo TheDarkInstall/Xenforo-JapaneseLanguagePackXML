@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+ <phrase title="facebook" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Facebook]]></phrase>
+  <phrase title="facebook_activity" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Facebook Activity]]></phrase>
+  <phrase title="facebook_application_id" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Facebook Application ID]]></phrase>
+  <phrase title="facebook_application_secret" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Facebook Application Secret]]></phrase>
+  <phrase title="facebook_colorscheme_dark" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Dark]]></phrase>
+  <phrase title="facebook_colorscheme_light" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Light]]></phrase>
+  <phrase title="facebook_integration" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Facebookの統合]]></phrase>
+  <phrase title="facebook_like" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Like]]></phrase>
+  <phrase title="facebook_recommend" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Recommend]]></phrase>
+  <phrase title="facebook_recommendations" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Facebookの推奨]]></phrase>
+  <phrase title="facebook_returned_following_error_x" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Facebook returned the following error: {error}.]]></phrase>
+  <phrase title="facebook_returned_unknown_error" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Facebook returned an unknown error. Please try again later.]]></phrase>
+  <phrase title="facebook_user_id" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Facebook User ID]]></phrase>
+  <phrase title="facebook_user_ids_are_integers" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Please provide a valid Facebook user ID. Facebook user IDs take the form of integers (whole numbers).]]></phrase>
+  <phrase title="failed_user_imports" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Failed User Imports]]></phrase>
+  <phrase title="feed_is_active" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Feed is active]]></phrase>
+  <phrase title="feed_message_template_explain" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[You may leave these fields blank to include the content provided by the feed, or enter your own text, inserting any of the following tokens to represent data from the feed:]]></phrase>
+  <phrase title="female" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[女性]]></phrase>
+  <phrase title="fetch_and_store_remote_url_avatars" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Fetch and store remote URL avatars]]></phrase>
+  <phrase title="fetch_and_store_remote_url_avatars_explain" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[IP.Board allows users to link to off-site images as avatars. Would you like any off-site images to be fetched and stored on your server? If you do not select this option, remote URL avatars will be ignored.]]></phrase>
+  <phrase title="fetch_new_entries_every" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Fetch New Entries Every]]></phrase>
+  <phrase title="field_display_html_description" addon_id="XenForo" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[If not empty, this allows you to format the value of this field using HTML, allowing you to do things like link or mark up the output. You may use these placeholders: <b>{$value}</b> - the field's display value; <b>{$valueUrl}</b> - the field's display value for use in a URL, <b>{$choice}</b> - the underlying value of the chosen option, and <b>{$fieldId}</b> - the ID of this field ({fieldId}).]]></phrase>
+  <phrase title="field_id" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field ID]]></phrase>
+  <phrase title="field_ids_must_be_unique" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field IDs must be unique. The specified ID is already in use.]]></phrase>
+  <phrase title="field_is_required" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field is required]]></phrase>
+  <phrase title="field_type" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Field Type]]></phrase>
+  <phrase title="file" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[File]]></phrase>
+  <phrase title="files_associated_with_addon_not_found" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[The files associated with this add-on could not be found. Please upload them and try again.]]></phrase>
+  <phrase title="files_necessary_uninstallation_addon_not_found" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[The files necessary for uninstallation of this add-on could not be found. Please replace them.]]></phrase>
+  <phrase title="file_contents_unexpected" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[File does not contain expected contents.]]></phrase>
+  <phrase title="file_health_check" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[File Health Check]]></phrase>
+  <phrase title="file_health_check_description" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[<p>This system will scan the files of your XenForo installation
+	and identify any files that are missing, or whose contents
+	do not match the expected contents for that file.</p>
+				
+<p>It can be useful for quickly checking that all files have been correctly uploaded.</p>
+			
+<p>Click the <b>{button}</b> button below to run the test.</p>]]></phrase>
+  <phrase title="file_health_check_okay" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[All {numFiles} checked files are present and correct.]]></phrase>
+  <phrase title="file_not_found" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[File not found.]]></phrase>
+  <phrase title="file_size" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[ファイルのサイズ]]></phrase>
+  <phrase title="file_uploader" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[File Uploader]]></phrase>
+  <phrase title="filter" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Filter]]></phrase>
+  <phrase title="filters" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Filters]]></phrase>
+  <phrase title="filter_by_user" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Filter by user]]></phrase>
+  <phrase title="filter_items" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Filter items]]></phrase>
+  <phrase title="find_all_content_by_x" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{name}の全てのコンテンツを取得する]]></phrase>
+  <phrase title="find_all_threads_by_x" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{name}の全てのスレッドを取得する]]></phrase>
+  <phrase title="find_member" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[メンバーを取得する]]></phrase>
+  <phrase title="find_now" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[今取得する]]></phrase>
+  <phrase title="find_older_messages" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Find older messages]]></phrase>
+  <phrase title="find_user" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Find User]]></phrase>
+  <phrase title="first_message_likes" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[最初のメッセージのLIKE]]></phrase>
+  <phrase title="first_reported" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[First Reported]]></phrase>
+  <phrase title="flag" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Flag]]></phrase>
+  <phrase title="flag_with_default_value" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Flag, with default value]]></phrase>
+  <phrase title="follow" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォローする]]></phrase>
+  <phrase title="followed_members_only" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Followed Members Only]]></phrase>
+  <phrase title="followers" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[あなたをフォローしている人]]></phrase>
+  <phrase title="following" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[あなたがフォローしている人]]></phrase>
+  <phrase title="following_error_occurred" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[以下のエラーが発生しました]]></phrase>
+  <phrase title="following_members_not_found_x" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[以下のメンバーを見つけられませんでした：{members}。]]></phrase>
+  <phrase title="following_placeholders_will_be_replaced_in_message_for_email" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The following placeholders will be replaced in the message: {name}, {email}, {id}.]]></phrase>
+  <phrase title="following_sub_options_unknown_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The following sub-option(s) are unknown: {subOptions}.]]></phrase>
+  <phrase title="following_templates_contained_errors_and_were_not_saved_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The following templates contained errors and were not saved: {errors}]]></phrase>
+  <phrase title="following_users_conflicted_with_existing_names_or_emails" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The following users conflicted with existing users' names or email addresses. Please resolve these conflicts.]]></phrase>
+  <phrase title="following_users_could_not_be_imported_due_to_errors" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The following users could not be imported due to errors.]]></phrase>
+  <phrase title="following_users_logged_as_having_used_ip_addresses_used_by_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[The following users are logged as having used IP addresses used by {name} recently.]]></phrase>
+  <phrase title="following_words_were_not_included_in_your_search_x" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[以下の単語は検索条件に含まれていませんでした：{words}]]></phrase>
+  <phrase title="follow_people_to_fill_it" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[条件を満たす為、フォローする。]]></phrase>
+  <phrase title="follow_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Follow {name}]]></phrase>
+  <phrase title="font_family" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォントのファミリー]]></phrase>
+  <phrase title="font_size" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォントのサイズ]]></phrase>
+  <phrase title="force_character_set" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Force Character Set]]></phrase>
+  <phrase title="forgot_your_password" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[パスワードをお忘れですか。]]></phrase>
+  <phrase title="format_parameters" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Format Parameters]]></phrase>
+  <phrase title="form_tags_must_specify_an_action" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Form tags must specify an action.]]></phrase>
+  <phrase title="forum" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォーラム]]></phrase>
+  <phrase title="forums" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォーラム]]></phrase>
+  <phrase title="forums_and_permissions" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Forums and Permissions]]></phrase>
+  <phrase title="forum_is_currently_closed_only_admins_may_access" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[フォーラムは現在閉鎖中です。管理者のみアクセス可能です。]]></phrase>
+  <phrase title="forum_list" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォーラムのリスト]]></phrase>
+  <phrase title="forum_moderator" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Forum Moderator]]></phrase>
+  <phrase title="forum_options" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Forum Options]]></phrase>
+  <phrase title="forum_statistics" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォーラムの統計情報]]></phrase>
+  <phrase title="forum_x_marked_as_read" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA['{forum}'というフォーラムが既読です]]></phrase>
+  <phrase title="for_length" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[For length]]></phrase>
+  <phrase title="found_unexpected_content_within_an_admin_control_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Found unexpected content within an admin control tag.]]></phrase>
+  <phrase title="found_unexpected_tag_x_as_disabled_control" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Found unexpected tag '{tag}' as a disabled control.]]></phrase>
+  <phrase title="free_form_text_allows_loose_grouping_of_adjacent_scalar_properties" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Free-form text, allows loose grouping of adjacent <i>scalar</i> properties.]]></phrase>
+  <phrase title="from_email" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[From Email]]></phrase>
+  <phrase title="from_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[From Name]]></phrase>
+  <phrase title="from_x_location" addon_id="XenForo" global_cache="1" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[<span class="muted">from</span> {location}]]></phrase>
+  <phrase title="full_image" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[全画像]]></phrase>
+  <phrase title="full_size" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Full Size]]></phrase>
+  <phrase title="future_message_handling" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Future Message Handling]]></phrase>

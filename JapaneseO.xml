@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<phrase title="occupation" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[職業]]></phrase>
+  <phrase title="official_name_of_this_service_such_as_yahoo" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The official name of this service, such as <i>Yahoo! Instant Messenger</i>.]]></phrase>
+  <phrase title="okay" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[いいよ]]></phrase>
+  <phrase title="older" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[古い]]></phrase>
+  <phrase title="once_your_birthday_has_been_entered_it_cannot_be_changed" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[お誕生日の変更はできません]]></phrase>
+  <phrase title="one_minute_ago" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[一分前]]></phrase>
+  <phrase title="online_now_x_members_y_guests_z" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[現在閲覧中: {total} (会員: {members}, 未登録: {guests})]]></phrase>
+  <phrase title="online_statistics" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[閲覧統計]]></phrase>
+  <phrase title="only_array_data_types_may_be_represented_as_array_values" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Only array data types may be represented as array values.]]></phrase>
+  <phrase title="only_generate_list_of_email_addresses" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Only generate a list of email addresses]]></phrase>
+  <phrase title="only_literal_css_templates_may_be_included_by_require_tag" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Only literal CSS templates may be included by the require tag.]]></phrase>
+  <phrase title="only_send_to_users_opting_to_receive_emails_from_admin" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Only send to users opting to receive emails from the admin]]></phrase>
+  <phrase title="only_when_data_is_provided" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Only when data is provided]]></phrase>
+  <phrase title="on_next_page_you_may_apply_settings_to_all_selected_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[On the next page, you may apply settings to all the selected prefixes. If you would like to base these settings on an existing prefix, select it here.]]></phrase>
+  <phrase title="on_off_check_box" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[On/Off Check Box]]></phrase>
+  <phrase title="open_in_new_window" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Open in new window]]></phrase>
+  <phrase title="open_in_overlay" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Open this link in an overlay]]></phrase>
+  <phrase title="open_quick_navigation" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[簡単ナビ]]></phrase>
+  <phrase title="open_report" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Open]]></phrase>
+  <phrase title="open_thread" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スレッドを立てる]]></phrase>
+  <phrase title="optgroups_must_have_label" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Optgroups must have a label.]]></phrase>
+  <phrase title="optional" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Optional]]></phrase>
+  <phrase title="optionally_describe_trophy_and_criteria_user_needs_to_award" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Optionally describe the trophy and the criteria the user needs to meet to be awarded it.]]></phrase>
+  <phrase title="optional_components" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Optional Components]]></phrase>
+  <phrase title="options" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[オプション]]></phrase>
+  <phrase title="options_for_choice_fields" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Options for Choice Fields]]></phrase>
+  <phrase title="options_for_text_fields" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Options for Text Fields]]></phrase>
+  <phrase title="options_tag_must_have_source_attribute" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Options tag must have a source attribute.]]></phrase>
+  <phrase title="option_addBanUserGroup" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Add User Group on Ban]]></phrase>
+  <phrase title="option_addBanUserGroup_explain" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[When a user is banned, they can be added to a specific user group while the ban is active. This allows overrides to their user group styling, for example.]]></phrase>
+  <phrase title="option_addThis" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Enable 'AddThis' Service, with Profile ID:]]></phrase>
+  <phrase title="option_addThis_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enable AddThis to provide sharing tools for your visitors, and optionally enter your AddThis profile ID to gain access to additional metrics about people sharing threads and posts from your forum. See http://www.addthis.com]]></phrase>
+  <phrase title="option_adjustTitleCase" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Automatically Adjust Case of Discussion Titles]]></phrase>
+  <phrase title="option_adjustTitleCase_explain" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[You may choose to apply sentence or title case to discussion titles automatically, should you wish to do so.]]></phrase>
+  <phrase title="option_adminSearchExclusions" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Items Included in Admin Search]]></phrase>
+  <phrase title="option_adminSearchExclusions_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Unchecked items will not be searched when using the admin control panel quick search facility.]]></phrase>
+  <phrase title="option_adminSearchMaxResults" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Maximum Results Per Type]]></phrase>
+  <phrase title="option_adminSearchMaxResults_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enter the maximum number of search results to be returned for each content type in the quick search menu.]]></phrase>
+  <phrase title="option_alertExpiryDays" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Days to Retain Viewed Alerts]]></phrase>
+  <phrase title="option_alertExpiryDays_explain" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[User alerts will disappear from the alerts list this many days after being viewed. Unviewed alerts do not expire.]]></phrase>
+  <phrase title="option_alertsPerPage" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Alerts Per-Page]]></phrase>
+  <phrase title="option_alertsPerPage_explain" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Controls how many alerts are shown on each page of users' full alert list.]]></phrase>
+  <phrase title="option_alertsPopupExpiryHours" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Hours to Retain Viewed Alerts in Popup]]></phrase>
+  <phrase title="option_alertsPopupExpiryHours_explain" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[The alert popup will show all unviewed alerts, plus any viewed alerts that were viewed within the time frame (in hours) before now. Note that the total amount shown in this popup is limited to no more than 25.]]></phrase>
+  <phrase title="option_attachmentExtensions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Allowed Attachment File Extensions]]></phrase>
+  <phrase title="option_attachmentExtensions_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[List the file extensions that are allowed to be uploaded. Use spaces or line break between extensions.]]></phrase>
+  <phrase title="option_attachmentMaxDimensions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Maximum Attachment Image Dimensions]]></phrase>
+  <phrase title="option_attachmentMaxDimensions_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The maximum allowed dimensions for attached images (width x height). Use 0 or blank to not restrict dimensions.]]></phrase>
+  <phrase title="option_attachmentMaxFileSize" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Maximum Attachment File Size (KB)]]></phrase>
+  <phrase title="option_attachmentMaxFileSize_explain" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Provide the maximum attachment file size in kilobytes (KB). Attachments over this size will be rejected.]]></phrase>
+  <phrase title="option_attachmentMaxPerMessage" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Maximum Attachments per Message]]></phrase>
+  <phrase title="option_attachmentMaxPerMessage_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Use 0 to allow an unlimited number of attachments per message. To disable message attachments, use the permissions system.]]></phrase>
+  <phrase title="option_attachmentThumbnailDimensions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Attachment Thumbnail Dimensions]]></phrase>
+  <phrase title="option_attachmentThumbnailDimensions_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The maximum width and height of generated attachment thumbnails.]]></phrase>
+  <phrase title="option_autoEmbedMedia" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Auto-Embed Media Links]]></phrase>
+  <phrase title="option_autoEmbedMedia_explain" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Enable this option to have the system attempt to automatically embed media from URLs posted by visitors that point to registered media sites. If you choose to include a link to the content as well, the media embedding may be duplicated when the message is quoted.]]></phrase>
+  <phrase title="option_boardActive" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Board is Active]]></phrase>
+  <phrase title="option_boardActive_explain" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_boardDescription" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Board Meta Description]]></phrase>
+  <phrase title="option_boardDescription_explain" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Enter a description for your board. This will be placed inside the meta description tag for the forum home page, so avoid using HTML.]]></phrase>
+  <phrase title="option_boardInactiveMessage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Inactive Board Message]]></phrase>
+  <phrase title="option_boardInactiveMessage_explain" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[When the board is inactive / closed, this message will be shown to site visitors. You may use HTML.]]></phrase>
+  <phrase title="option_boardTitle" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Board Title]]></phrase>
+  <phrase title="option_boardTitle_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The title of your board. This will be displayed at the top of pages and used in emails.]]></phrase>
+  <phrase title="option_boardUrl" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Board URL]]></phrase>
+  <phrase title="option_boardUrl_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The primary URL to your board. Do not include a trailing "/" or "index.php". The URL should look similar to this: http://www.example.com/forum]]></phrase>
+  <phrase title="option_bounceEmailAddress" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Bounced Email Address]]></phrase>
+  <phrase title="option_bounceEmailAddress_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[If an email cannot be delivered, the bounce notification will be returned to this email address. If left blank, bounced messages will be returned to the default email address.]]></phrase>
+  <phrase title="option_captcha" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Enable CAPTCHA for Guests]]></phrase>
+  <phrase title="option_captcha_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[CAPTCHAs help prevent spammers from registering or posting.]]></phrase>
+  <phrase title="option_categoryOwnPage" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Create Pages for Categories]]></phrase>
+  <phrase title="option_categoryOwnPage_explain" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[When enabled, clicking on a link to a category will take you to a dedicated page that only shows the children of that category. When disabled, users will be redirected to the full forum list and scrolled to the correct category.]]></phrase>
+  <phrase title="option_censorCharacter" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Censor Character]]></phrase>
+  <phrase title="option_censorCharacter_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This character will be repeated for each character in a censored word that does not otherwise have a replacement specified. For example, if "dog" is censored, it may be replaced with "***".]]></phrase>
+  <phrase title="option_censorWords" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Words to Censor]]></phrase>
+  <phrase title="option_censorWords_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This is a list of words or phrases that are to be censored. If a replacement word or phrase is entered, the censored text will be rewritten to this (for example, replacing "dog" with "cat"). If no replacement is entered, the censored text will be replaced with censor characters (for example, "***").]]></phrase>
+  <phrase title="option_contactEmailAddress" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Contact Email Address]]></phrase>
+  <phrase title="option_contactEmailAddress_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Email address where board-related messages will be sent.]]></phrase>
+  <phrase title="option_contactUrl" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Contact URL]]></phrase>
+  <phrase title="option_contactUrl_explain" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[This is the URL to the page where users will be able to contact you.]]></phrase>
+  <phrase title="option_conversationPopupExpiryHours" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Hours to Retain Read Conversations in Popup]]></phrase>
+  <phrase title="option_conversationPopupExpiryHours_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The conversations popup will show all conversations with unread replies, plus any read conversations whose most recent replies fall within the time frame (in hours) before now.]]></phrase>
+  <phrase title="option_currentVersionId" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Current Version ID]]></phrase>
+  <phrase title="option_currentVersionId_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="option_defaultEmailAddress" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Default Email Address]]></phrase>
+  <phrase title="option_defaultEmailAddress_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This is the default email address that emails will be sent from.]]></phrase>
+  <phrase title="option_defaultLanguageId" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Default Language]]></phrase>
+  <phrase title="option_defaultLanguageId_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="option_defaultStyleId" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Default Style]]></phrase>
+  <phrase title="option_defaultStyleId_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="option_delayPostResponses" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Slow POST Responses]]></phrase>
+  <phrase title="option_delayPostResponses_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[When developing on a local server, the speed of responses can be too fast for debugging. Adding a value here will delay POST responses by the number of seconds you specify.]]></phrase>
+  <phrase title="option_disallowedCustomTitles" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Disallowed Custom Titles]]></phrase>
+  <phrase title="option_disallowedCustomTitles_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Enter the words or phrases that are disallowed in custom user titles. All censored words are automatically disallowed. Place each word or phrase on separate lines.]]></phrase>
+  <phrase title="option_discourageBlankChance" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Blank Page Chance]]></phrase>
+  <phrase title="option_discourageBlankChance_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[You may present discouraged users with a blank page from time to time. Enter the percentage chance of this happening.]]></phrase>
+  <phrase title="option_discourageDelay" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Loading Delay (seconds)]]></phrase>
+  <phrase title="option_discourageDelay_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Discouraged users will be subjected to a page loading delay of a random period between the two values provided here.]]></phrase>
+  <phrase title="option_discourageFloodMultiplier" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Flood Time Multiplier]]></phrase>
+  <phrase title="option_discourageFloodMultiplier_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The standard minimum time between messages can be multiplied to make discouraged users wait longer between posting. Enter a multiplier here.]]></phrase>
+  <phrase title="option_discourageNewsFeedChance" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[News Feed Disabled Chance]]></phrase>
+  <phrase title="option_discourageNewsFeedChance_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enter the percentage chance that discouraged users will find the news feed disabled when they attempt to use it.]]></phrase>
+  <phrase title="option_discourageRedirectChance" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Redirection Chance]]></phrase>
+  <phrase title="option_discourageRedirectChance_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enter the percentage chance that a discouraged user will be redirected to the redirection page.]]></phrase>
+  <phrase title="option_discourageRedirectUrl" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Redirection Page URL]]></phrase>
+  <phrase title="option_discourageRedirectUrl_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[You may randomly redirect discouraged users to a different page. Leave this blank to redirect to the forum home page.]]></phrase>
+  <phrase title="option_discourageSearchChance" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Search Disabled Chance]]></phrase>
+  <phrase title="option_discourageSearchChance_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[When discouraged users attempt to search, this option defines the percentage chance that they will find it disabled. (0 = never, 100 = always)]]></phrase>
+  <phrase title="option_discussionPreviewLength" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Discussion Preview Length]]></phrase>
+  <phrase title="option_discussionPreviewLength_explain" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[The number of characters that will be used to create the discussion/thread preview when hovering over the title. Use 0 to disable the preview.]]></phrase>
+  <phrase title="option_discussionsPerPage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Discussions Per Page]]></phrase>
+  <phrase title="option_discussionsPerPage_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This controls the maximum number of discussions (such as threads) that will be shown on one page.]]></phrase>
+  <phrase title="option_emailConversationIncludeMessage" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Include full message text personal conversation notification emails.]]></phrase>
+  <phrase title="option_emailConversationIncludeMessage_explain" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[With this option enabled, notification emails sent to conversation recipients will contain the full text of the message about which they are being notified. With this option disabled, they will need to visit the forum to read the message.]]></phrase>
+  <phrase title="option_emailSenderName" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Default Email Sender Name]]></phrase>
+  <phrase title="option_emailSenderName_explain" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[If specified, emails sent by XenForo will default to being from this name. If no value is entered, the board name will be used.]]></phrase>
+  <phrase title="option_emailTransport" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Email Transport Method]]></phrase>
+  <phrase title="option_emailTransport_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="option_emailWatchedThreadIncludeMessage" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Include full message text in watched thread notification emails.]]></phrase>
+  <phrase title="option_emailWatchedThreadIncludeMessage_explain" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[With this option enabled, notification emails sent to users watching threads will contain the full text of the message about which they are being notified. With this option disabled, they will need to visit the forum to read the message.]]></phrase>
+  <phrase title="option_enableInsertDelayed" addon_id="XenForo" version_id="1010051" version_string="1.1.0 Release Candidate 1"><![CDATA[Enable Delayed Insert SQL Queries]]></phrase>
+  <phrase title="option_enableInsertDelayed_explain" addon_id="XenForo" version_id="1010070" version_string="1.1.0"><![CDATA[This enables the use of INSERT DELAYED SQL queries for elements such as view tracking to increase performance. We only recommend disabling this if your host complains about "long MySQL connections" due to a misconception of what those connections represent.]]></phrase>
+  <phrase title="option_enableNewsFeed" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enable News Feed]]></phrase>
+  <phrase title="option_enableNewsFeed_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[With this option disabled, viewing the news feed will be completely disabled.]]></phrase>
+  <phrase title="option_enableNotices" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enable Notices System]]></phrase>
+  <phrase title="option_enableNotices_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[If you don't use the notices system, you can completely disable it and save a query on session creation.]]></phrase>
+  <phrase title="option_enableSearch" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enable Search Engine]]></phrase>
+  <phrase title="option_enableSearch_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[With this option disabled, the search engine will not function.]]></phrase>
+  <phrase title="option_facebookAdmins" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Facebook Page Admins]]></phrase>
+  <phrase title="option_facebookAdmins_explain" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Use the boxes here to enter the <a href="http://xenforo.com/help/facebook-user-id/" target="_blank">Facebook User IDs</a> of any users you would like to be able to administer Liked pages.]]></phrase>
+  <phrase title="option_facebookAdmins_hint" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[This field is not required if you have provided an application ID.]]></phrase>
+  <phrase title="option_facebookAppId" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Facebook Application ID]]></phrase>
+  <phrase title="option_facebookAppId_explain" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[The ID that is associated with your <a href="http://www.facebook.com/developers/createapp.php" target="_blank">Facebook application</a> for this domain.]]></phrase>
+  <phrase title="option_facebookAppSecret" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Facebook Application Secret]]></phrase>
+  <phrase title="option_facebookAppSecret_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The secret for the Facebook application you created for this domain.]]></phrase>
+  <phrase title="option_facebookFacepile" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Enable Facebook Registered Friends Feature]]></phrase>
+  <phrase title="option_facebookFacepile_explain" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[If this feature is enabled, various places in XenForo, including the Member List will, show a selection of the current visitor's Facebook friends who have also signed up to your forum through Facebook. If the current visitor is not signed into Facebook, or has no registered friends, nothing will be shown.<br />
+<br />
+<b>This feature requires the application ID and application secret fields above to be completed.</b>]]></phrase>
+  <phrase title="option_facebookLike" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Enable Facebook Like / Recommend Feature]]></phrase>
+  <phrase title="option_facebookLikeAction" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Facebook Like Button Phrase]]></phrase>
+  <phrase title="option_facebookLikeAction_explain" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Change the text shown on Facebook Like / Recommend buttons.]]></phrase>
+  <phrase title="option_facebookLike_explain" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[If this feature is enabled, a Facebook 'Like' or 'Recommend' button will be displayed on various pages including the thread view page, allowing Facebook users to 'Like' the page and in doing so, share it with their Facebook friends.<br />
+<br />
+<b>This feature does not require the Facebook application ID or application secret fields to be completed.</b>]]></phrase>
+  <phrase title="option_floodCheckLength" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Minimum Time Between Messages (seconds)]]></phrase>
+  <phrase title="option_floodCheckLength_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Users will have to wait this many seconds between posting messages. Users with the permission "Can Bypass Flood Check" will be exempt from this option.]]></phrase>
+  <phrase title="option_geoLocationUrl" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Location Information URL]]></phrase>
+  <phrase title="option_geoLocationUrl_explain" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The URL specified here will be used to give information (such as a map) about a physical location. The URL must include a <strong>{location}</strong> token.]]></phrase>
+  <phrase title="option_googleAnalyticsWebPropertyId" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Google Analytics Web Property ID]]></phrase>
+  <phrase title="option_googleAnalyticsWebPropertyId_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[You may enter your <a href="http://code.google.com/apis/analytics/">Google Analytics</a> web property ID here to have the Analytics HTML automatically added to your public-facing pages.]]></phrase>
+  <phrase title="option_gravatarEnable" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Enable Gravatar Support]]></phrase>
+  <phrase title="option_gravatarEnable_explain" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[If enabled, your users may source their avatars from <a href="http://www.gravatar.com" target="_blank">Gravatar</a>. When a new user registers, XenForo will automatically search for a Gravatar associated with their email address. If disabled, this will not remove Gravatars from users that already have them.]]></phrase>
+  <phrase title="option_groups" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Option Groups]]></phrase>
+  <phrase title="option_group_acp" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Admin Control Panel]]></phrase>
+  <phrase title="option_group_acp_description" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Contains various options relating to the Admin Control Panel itself.]]></phrase>
+  <phrase title="option_group_alerts" addon_id="XenForo" version_id="0" version_string=""><![CDATA[User Alerts]]></phrase>
+  <phrase title="option_group_alerts_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[When events happen that affect individual users, they are alerted via this system. As large volumes of alerts are generated, they are periodically pruned from the database.]]></phrase>
+  <phrase title="option_group_appearance" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Appearance]]></phrase>
+  <phrase title="option_group_appearance_description" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[These options control how your site appears to your visitors.]]></phrase>
+  <phrase title="option_group_attachments" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Attachments]]></phrase>
+  <phrase title="option_group_attachments_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Attachments are files that are uploaded to the board along with messages.]]></phrase>
+  <phrase title="option_group_basicBoard" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Basic Board Information]]></phrase>
+  <phrase title="option_group_basicBoard_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
+  <phrase title="option_group_belongs_to_disabled_addon" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The add-on <em>{addon}</em>, to which this option group belongs, is currently disabled.<br />
+<br />
+You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of installed add-ons</a>.]]></phrase>
+  <phrase title="option_group_boardActive" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Board Active]]></phrase>
+  <phrase title="option_group_boardActive_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Turn your board on and off here.]]></phrase>
+  <phrase title="option_group_censoringOptions" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Censoring]]></phrase>
+  <phrase title="option_group_censoringOptions_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[User-generated text will be subject to the censorship rules you define here.]]></phrase>
+  <phrase title="option_group_debug" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Debug Options]]></phrase>
+  <phrase title="option_group_debug_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[These options are intended to be directly manipulated solely by the XenForo developers.]]></phrase>
+  <phrase title="option_group_discourager" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[User Discouragement and Discipline]]></phrase>
+  <phrase title="option_group_discourager_description" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[The 'Discourager' is a system that aims to make the browsing experience of 'discouraged' users as frustrating as possible, with the goal of having them give up and leave.<br />
+<br />
+You may set a user into 'discouraged' mode by editing their user profile, or discourage an IP address or IP address range.]]></phrase>
+  <phrase title="option_group_discussionOptions" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Threads,  Discussions and Conversations]]></phrase>
+  <phrase title="option_group_discussionOptions_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Messages are contained within a discussion container, and options relating to these can be found here.]]></phrase>
+  <phrase title="option_group_emailOptions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Email Options]]></phrase>
+  <phrase title="option_group_emailOptions_description" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_group_facebook" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Facebook Integration]]></phrase>
+  <phrase title="option_group_facebook_description" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[These options control the integration of Facebook features into XenForo.]]></phrase>
+  <phrase title="option_group_ids_must_be_unique" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Option group IDs must be unique. The specified ID is already in use.]]></phrase>
+  <phrase title="option_group_logging" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Logging Options]]></phrase>
+  <phrase title="option_group_logging_description" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Options that control what data is logged and how long it is maintained.]]></phrase>
+  <phrase title="option_group_messageOptions" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Messages]]></phrase>
+  <phrase title="option_group_messageOptions_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Options here control messages posted by users to the system, including messages in threads, profile posts, personal conversations etc.]]></phrase>
+  <phrase title="option_group_newsfeed" addon_id="XenForo" version_id="0" version_string=""><![CDATA[News Feed]]></phrase>
+  <phrase title="option_group_newsfeed_description" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[The news feed, or activity stream is a constantly-updated log of things that your registered members do, which can be viewed back by other visitors.<br />
+<br />
+It is possible to filter the news feed down to just users you follow, or a single user.]]></phrase>
+  <phrase title="option_group_nodeList" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Node & Forum List]]></phrase>
+  <phrase title="option_group_nodeList_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[The node and forum list is the primary navigational structure for XenForo's forums and pages.]]></phrase>
+  <phrase title="option_group_performance" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Performance]]></phrase>
+  <phrase title="option_group_performance_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Options here allow you to turn off or tweak systems in order to fine-tune the performance of your site.]]></phrase>
+  <phrase title="option_group_searchOptions" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Search Options]]></phrase>
+  <phrase title="option_group_searchOptions_description" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[These options control the behavior of the search system built-in to XenForo to allow searching of messages and other content.]]></phrase>
+  <phrase title="option_group_seo" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Search Engine Optimisation (SEO)]]></phrase>
+  <phrase title="option_group_seo_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[You may tweak various link-building and content display options here.]]></phrase>
+  <phrase title="option_group_serviceProviders" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[External Service Providers]]></phrase>
+  <phrase title="option_group_serviceProviders_description" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[For some functions, XenForo will hand off to a third party service provider. You may change some of the defaults used here.]]></phrase>
+  <phrase title="option_group_spam" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spam Management]]></phrase>
+  <phrase title="option_group_spam_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Default options for the Spam Cleaner system are located here.]]></phrase>
+  <phrase title="option_group_stats" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Statistics and Metrics]]></phrase>
+  <phrase title="option_group_stats_description" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
+  <phrase title="option_group_twitter" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Twitter Integration]]></phrase>
+  <phrase title="option_group_twitter_description" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Controls to manage integration of XenForo with Twitter]]></phrase>
+  <phrase title="option_group_users" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[User Options]]></phrase>
+  <phrase title="option_group_usersAndRegistration" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[User Registration]]></phrase>
+  <phrase title="option_group_usersAndRegistration_description" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_group_users_description" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[]]></phrase>
+  <phrase title="option_guestShowSignatures" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Show Signatures to Guests]]></phrase>
+  <phrase title="option_guestShowSignatures_explain" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[In order to maximise your 'signal to noise' ratio when displaying threads to guests, you may hide your members' signatures.]]></phrase>
+  <phrase title="option_guestTimeZone" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Guests' Time Zone]]></phrase>
+  <phrase title="option_guestTimeZone_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[All dates and times will be displayed to guests in this time zone.]]></phrase>
+  <phrase title="option_homePageUrl" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Home Page URL]]></phrase>
+  <phrase title="option_homePageUrl_explain" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This is the URL to your home page, outside of the board. If this is left blank, 'Home' will not appear in the navigation.]]></phrase>
+  <phrase title="option_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Option ID]]></phrase>
+  <phrase title="option_ids_must_be_unique" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Option IDs must be unique. The specified ID is already in use.]]></phrase>
+  <phrase title="option_imageLibrary" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Default Image Processor]]></phrase>
+  <phrase title="option_imageLibrary_explain" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[XenForo can make use of various different image processing libraries to produce image thumbnails etc. Select your preferred library from the list above.]]></phrase>
+  <phrase title="option_includeTitleInUrls" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Include Content Title in URLs]]></phrase>
+  <phrase title="option_includeTitleInUrls_explain" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[With this disabled, a URL such as /threads/my-thread.128/ would exclude the title and be output as /threads/128/]]></phrase>
+  <phrase title="option_ipInfoUrl" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[IP Information URL]]></phrase>
+  <phrase title="option_ipInfoUrl_explain" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Specify a URL to be used for requesting more information about an IP address. The URL must include <strong>{ip}</strong>, which will be replaced with the actual IP address.]]></phrase>
+  <phrase title="option_jQuerySource" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[jQuery Source]]></phrase>
+  <phrase title="option_jQuerySource_explain" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Controls the source of the jQuery core JavaScript library. You may host this yourself (Local) or use one of the recommended CDN sources. Google and Microsoft both support HTTPS/SSL, but the jQuery CDN does not.]]></phrase>
+  <phrase title="option_lastPageLinks" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Maximum Last Page Links]]></phrase>
+  <phrase title="option_lastPageLinks_explain" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[If a discussion spans multiple pages, the last few pages are displayed on the discussion list. Set the maximum number of pages to show here. Set the number to 0 to disable this feature.]]></phrase>
+  <phrase title="option_lightBoxUniversal" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[LightBox Displays All Images on Page]]></phrase>
+  <phrase title="option_lightBoxUniversal_explain" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[If this option is enabled, the LightBox overlay in which images are loaded will show all attached and hot-linked images from all messages on the current page. If disabled, the LightBox will show only images from the current message.]]></phrase>
+  <phrase title="option_logoLink" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Link Logo to Home Page URL]]></phrase>
+  <phrase title="option_logoLink_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[If a home URL is provided, select this option to link the main page logo to that URL. If this option is not selected, the logo will always link to the forum index.]]></phrase>
+  <phrase title="option_lostPasswordCaptcha" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Use CAPTCHA for Lost Password Form]]></phrase>
+  <phrase title="option_lostPasswordCaptcha_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[To prevent robots flooding your lost password form, you may add CAPTCHA protection to it.]]></phrase>
+  <phrase title="option_lostPasswordTimeLimit" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Minimum Time Between Lost Password Requests (seconds)]]></phrase>
+  <phrase title="option_lostPasswordTimeLimit_explain" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[To prevent flooding, you may require a delay between lost password requests. Enter a length of time in seconds that users must wait.]]></phrase>
+  <phrase title="option_maximumSearchResults" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Maximum Number of Search Results]]></phrase>
+  <phrase title="option_maximumSearchResults_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This number reflects the maximum number of search results that will be found, before permissions are taken into account. Setting this too high may cause performance problems.]]></phrase>
+  <phrase title="option_membersOnlineLimit" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Maximum Usernames in Members Online Now Box]]></phrase>
+  <phrase title="option_membersOnlineLimit_explain" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[In order to prevent the 'Members Online Now' becoming enormous on a very busy board, you may limit the number of names before a '... and 12 more' link is added to terminate the list. A value of 0 disables the limit.]]></phrase>
+  <phrase title="option_membersPerPage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Members to List Per-Page]]></phrase>
+  <phrase title="option_membersPerPage_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Limit the number of members to show on each page of the registered member list, and online members list.]]></phrase>
+  <phrase title="option_messageInlineEdit" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Enable Inline Editing of Messages]]></phrase>
+  <phrase title="option_messageInlineEdit_explain" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[If enabled, messages will be edited in an overlay. This has caused problems for a limited number of people, so you can disable this and edit messages using a full page.]]></phrase>
+  <phrase title="option_messageMaxImages" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Maximum Images Per Message]]></phrase>
+  <phrase title="option_messageMaxImages_explain" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Use 0 to allow an unlimited amount of images per message.]]></phrase>
+  <phrase title="option_messageMaxLength" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Maximum Message Length]]></phrase>
+  <phrase title="option_messageMaxLength_explain" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The maximum number of characters that can be in a message. This includes BB code. Use 0 to disable the limit.]]></phrase>
+  <phrase title="option_messageMaxMedia" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Maximum Media Embeds per Message]]></phrase>
+  <phrase title="option_messageMaxMedia_explain" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Use 0 to disable this limit. Disabling the limit or setting it too high is not recommended, as numerous media embeds can cause browser performance problems.]]></phrase>
+  <phrase title="option_messagesPerPage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Messages Per Page]]></phrase>
+  <phrase title="option_messagesPerPage_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="option_minifyCss" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Minify CSS]]></phrase>
+  <phrase title="option_minifyCss_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[If true, CSS will be run through <a href="http://code.google.com/p/minify/" target="_blank">minify</a> before being served.<br />
+<br />
+<b>Note</b>: The minification process is processor intensive, and you should only enable this option if you have also <a href="http://xenforo.com/help/cache/" target="_blank">implemented a caching mechanism</a> in your library/config.php file.]]></phrase>
+  <phrase title="option_moderatorLogLength" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Moderator Log Length (Days)]]></phrase>
+  <phrase title="option_moderatorLogLength_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[The number of days that moderator log records will be kept for. Use 0 to keep the records permanently.]]></phrase>
+  <phrase title="option_newsFeedCache" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Cache User News Feed]]></phrase>
+  <phrase title="option_newsFeedCache_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Once news feed items for a particular user are fetched and processed, cache them to help performance, rather than re-fetching and re-processing them every time they are viewed.]]></phrase>
+  <phrase title="option_newsFeedMaxItems" addon_id="XenForo" version_id="0" version_string=""><![CDATA[News Feed Items to Fetch With Each Request]]></phrase>
+  <phrase title="option_newsFeedMaxItems_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The maximum number of news feed items to fetch when a user views their news feed. Also controls how many will be cached. Higher numbers require more resources both in terms of storage and processing time.]]></phrase>
+  <phrase title="option_newsFeedMessageSnippetLength" addon_id="XenForo" version_id="0" version_string=""><![CDATA[News Feed Message Snippet Maximum Length]]></phrase>
+  <phrase title="option_newsFeedMessageSnippetLength_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[When the text of messages is displayed in news feed items, it will be trimmed to the length specified here.]]></phrase>
+  <phrase title="option_onlineStatusTimeout" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Online Status Timeout (minutes)]]></phrase>
+  <phrase title="option_onlineStatusTimeout_explain" addon_id="XenForo" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[After a user interacts with the system (by clicking a link etc.) they will be considered 'online'. They will be considered to be offline if they do not interact with the system again within the time specified here.]]></phrase>
+  <phrase title="option_payPalPrimaryAccount" addon_id="XenForo" version_id="0" version_string=""><![CDATA[PayPal Primary Account Email]]></phrase>
+  <phrase title="option_payPalPrimaryAccount_explain" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[This is the primary email address on your PayPal account. If this is incorrect, payments may not be processed successfully. Note this must be a PayPal Premier or Business account and IPNs must be enabled. Please see our <a href="http://xenforo.com/help/user-upgrades/" target="_blank">help</a>.]]></phrase>
+  <phrase title="option_plusone" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Enable Google +1 Button]]></phrase>
+  <phrase title="option_plusone_explain" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Google's <a href="http://www.google.com/+1/button/" target="_blank">+1 button</a> feature allows your visitors to recommend pages from your XenForo installation to others.]]></phrase>
+  <phrase title="option_pollMaximumResponses" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Maximum Number of Poll Choices]]></phrase>
+  <phrase title="option_pollMaximumResponses_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This will limit the number of choices that can be given as responses to a poll.]]></phrase>
+  <phrase title="option_preventDiscouragedRegistration" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Prevent Discouraged IP Addresses from Registering]]></phrase>
+  <phrase title="option_preventDiscouragedRegistration_explain" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[You may prevent any visitors browsing from <a href="{link}">discouraged IP addresses</a> from registering new accounts. They will be informed that registration is currently disabled.]]></phrase>
+  <phrase title="option_privacyPolicyUrl" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Privacy Policy URL]]></phrase>
+  <phrase title="option_privacyPolicyUrl_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[If entered, a privacy policy link will be included in the footer.]]></phrase>
+  <phrase title="option_quickNavMenuNodeTypes" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Node Types to Include in Quick Navigation Menu]]></phrase>
+  <phrase title="option_quickNavMenuNodeTypes_explain" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[When building the quick navigation menu, include the node types specified here. If an allowed node type is a child of an excluded node type, it will not be shown. Note that this does not change the node list on <a href="index.php" target="_blank">this page</a>.]]></phrase>
+  <phrase title="option_readMarkingDataLifetime" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Read Marking Data Lifetime (Days)]]></phrase>
+  <phrase title="option_readMarkingDataLifetime_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This is the number of days to maintain read marking data (such as for threads and forums). Data older than this will always been seen as read.]]></phrase>
+  <phrase title="option_registrationDefaults" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Default Registration Values]]></phrase>
+  <phrase title="option_registrationDefaults_explain" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[In order to keep the registration form short, many preferences are not shown. This option allows you to set the default values for newly registered users.]]></phrase>
+  <phrase title="option_registrationSetup" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Registration Setup]]></phrase>
+  <phrase title="option_registrationSetup_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="option_searchMinWordLength" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Search Minimum Word Length]]></phrase>
+  <phrase title="option_searchMinWordLength_explain" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[This is the minimum length of a word that can be searched by the index. With the default search system, this should correspond with the MySQL full text minimum word length (normally 4).]]></phrase>
+  <phrase title="option_searchResultsPerPage" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Search Results Per Page]]></phrase>
+  <phrase title="option_searchResultsPerPage_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="option_searchUsersWithContent" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search for matching users with content search]]></phrase>
+  <phrase title="option_searchUsersWithContent_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[You may have the system also return users whose usernames begin with the searched keywords when searching for content.]]></phrase>
+  <phrase title="option_showFirstCookieNotice" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[Show Cookie Notice on First Visit]]></phrase>
+  <phrase title="option_showFirstCookieNotice_explain" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[When a user first views a page (with no XenForo cookies), if enabled, the user will see a notice stating that cookies are used by this site and continued use consents to the cookies. This option is designed to make compliance with EU cookie regulations easier.]]></phrase>
+  <phrase title="option_spamCheckIpsDaysLimit" addon_id="XenForo" version_id="0" version_string=""><![CDATA[IP Check Date Limit]]></phrase>
+  <phrase title="option_spamCheckIpsDaysLimit_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[When checking for other users having used the same IP addresses as those logged for a spammer, this control limits the search to the last x days.]]></phrase>
+  <phrase title="option_spamDefaultOptions" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spam Cleaner Default Options:]]></phrase>
+  <phrase title="option_spamDefaultOptions_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[These are the default options that will be checked when running the spam cleaner. The individual who actually runs the spam cleaner will have the opportunity to alter these options.]]></phrase>
+  <phrase title="option_spamEmailText" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spam Cleaner Email Text:]]></phrase>
+  <phrase title="option_spamEmailText_explain" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is the default text for the email that can be sent to users when the spam cleaner is applied against them. This can be used in situations where you believe the spammer is human and may have made a mistake. {username}, {boardTitle}, and {contactUrl} will be replaced with their respective values automatically.]]></phrase>
+  <phrase title="option_spamMessageAction" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spam Cleaner Message Action]]></phrase>
+  <phrase title="option_spamMessageAction_explain" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[This controls what happens to messages made by spammers when the spam cleaner is applied against them. Note that if content does not support removal from view, it will be permanently deleted regardless of this setting.]]></phrase>
+  <phrase title="option_spamThreadAction" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spam Cleaner Thread Action:]]></phrase>
+  <phrase title="option_spamThreadAction_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This controls what happens to threads started by spammers when the spam cleaner is applied against them.]]></phrase>
+  <phrase title="option_spamUserCriteria" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spam Cleaner User Criteria:]]></phrase>
+  <phrase title="option_spamUserCriteria_explain" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[The spam cleaner will only be available to act against users who meet these criteria. If any of these criteria are set to 0 (zero) they will be ignored.]]></phrase>
+  <phrase title="option_swfUpload" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Use Flash Uploader]]></phrase>
+  <phrase title="option_swfUpload_explain" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Using the Flash uploader allows those visitors with Adobe Flash installed to select multiple files to upload once, and to see a progress meter during the upload.]]></phrase>
+  <phrase title="option_templateFiles" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Fetch public templates as files]]></phrase>
+  <phrase title="option_templateFiles_explain" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[For performance reasons, you may choose to have the public-facing side of XenForo load its templates from files rather than the database. Note that in order for this to be of benefit, you <i>must</i> have an opcode cache installed on your server (APC, eAccelerator, XCache etc.)]]></phrase>
+  <phrase title="option_tosUrl" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[Terms and Rules URL]]></phrase>
+  <phrase title="option_tosUrl_explain" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[This link will be shown in the footer and users will have to agree to the terms and rules during registration.]]></phrase>
+  <phrase title="option_tweet" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Enable Tweet Button]]></phrase>
+  <phrase title="option_tweet_explain" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Enabling the Tweet button will allow your visitors to share pages easily using their Twitter account.<br />
+<br />
+You may also specify up to two Twitter accounts to recommend to visitors after they use the Tweet button. <a href="http://twitter.com/about/resources/tweetbutton" target="_blank">More info...</a>]]></phrase>
+  <phrase title="option_uncompressedJs" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Use Uncompressed JavaScript]]></phrase>
+  <phrase title="option_uncompressedJs_explain" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[If you are running a development copy of XenForo and want to develop with the full, uncompressed versions of the XenForo JavaScript files, adjust this setting accordingly.]]></phrase>
+  <phrase title="option_updateContentOnUsernameChange" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[Update denormalized usernames on username change]]></phrase>
+  <phrase title="option_updateContentOnUsernameChange_explain" addon_id="XenForo" version_id="1000270" version_string="1.0.2"><![CDATA[When you change a user's username, you may instruct the system to update all denormalized versions of that username. This can be an intensive operation, and if you have very large amounts of data you may wish to disable it.]]></phrase>
+  <phrase title="option_useFriendlyUrls" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Use Full Friendly URLs]]></phrase>
+  <phrase title="option_useFriendlyUrls_explain" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[If you enable this option, the links generated by the system will not include "index.php?". However, to enable this, mod_rewrite must be available and an appropriate .htaccess file must be in place.]]></phrase>
+  <phrase title="option_usernameLength" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Username Length Limit]]></phrase>
+  <phrase title="option_usernameLength_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This controls the minimum and maximum length of usernames. Use 0 to disable a limit.]]></phrase>
+  <phrase title="option_usernameValidation" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Username Validation]]></phrase>
+  <phrase title="option_usernameValidation_explain" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="order" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Order]]></phrase>
+  <phrase title="ordered_list" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[並べ替えたリスト]]></phrase>
+  <phrase title="order_by" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[並べ替え]]></phrase>
+  <phrase title="order_threads_in" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[並べ替え]]></phrase>
+  <phrase title="other" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Other]]></phrase>
+  <phrase title="otherwise_insert_into_moderation_queue" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Otherwise, messages will be placed into the moderation queue.]]></phrase>
+  <phrase title="other_action" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[そのたのアクション]]></phrase>
+  <phrase title="other_using_custom_css_class_name" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Other, using custom CSS class name]]></phrase>
+  <phrase title="outdated_phrases" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Outdated Phrases]]></phrase>
+  <phrase title="outdated_templates" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Outdated Templates]]></phrase>
+  <phrase title="outdent" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[逆インデント]]></phrase>
+  <phrase title="output" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[出力]]></phrase>
+  <phrase title="outset" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Outset]]></phrase>
+  <phrase title="overline" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Overline]]></phrase>
+  <phrase title="override_user_style_choice" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Override user style choice]]></phrase>
+  <phrase title="overwrite_language" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Overwrite language]]></phrase>
+  <phrase title="overwrite_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Overwrite style]]></phrase>
