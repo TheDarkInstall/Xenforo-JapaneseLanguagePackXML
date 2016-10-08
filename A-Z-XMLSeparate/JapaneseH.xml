@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+ <phrase title="handle_report" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Handle Report]]></phrase>
+  <phrase title="height" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Height]]></phrase>
+  <phrase title="help" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[ヘルプ]]></phrase>
+  <phrase title="helpful_if_wish_to_translate_language_using_xml_file" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[This is helpful if you wish to translate this language using the XML file directly.]]></phrase>
+  <phrase title="help_cookies_description" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[<p>The page discusses how cookies are used by this site. If you continue to use this site, you are consenting to our use of cookies.</p>
+
+<h3 class="textHeading">What Cookies Are</h3>
+<p>Cookies are small files stored on your computer by your web browser (such as Internet Explorer or Firefox) at the request of a site you're viewing. This allows the site you're viewing to remember things about you, such as your preferences and history or keeping you logged in.</p>
+
+<p>Cookies may be stored on your computer for a short time (such as only while your browser is open) or for an extended period of time, even years. Cookies not set by this site will not be accessible to us.</p>
+
+<h3 class="textHeading">Our Cookie Usage</h3>
+<p>This site uses cookies for numerous things, including:</p>
+<ul>
+	<li>Registration and maintaining your preferences. This includes ensuring that you can stay logged in and keeping the site in the language or appearance that you requested.</li>
+	<li>Analytics. This allows us to get determine how people are using the site and improve it.</li>
+	<li>Advertising cookies (possibly third-party). If this site displays advertising, cookies may be set by the advertisers to determine who has viewed an ad or similar things. These cookies may be set by third parties, in which case this site has no ability to read or write these cookies.</li>
+	<li>Other third-party cookies for things like Facebook or Twitter sharing. These cookies will generally be set by the third-party independently, so this site will have no ability to access them.</li>
+</ul>
+
+<h3 class="textHeading">Removing/Disabling Cookies</h3>
+<p>Controlling cookies and cookie preferences must be handled within your browser. Here is a list of guides on how to do this for popular browser software:</p>
+<ul>
+	<li><a href="http://support.microsoft.com/kb/196955">Internet Explorer</a></li>
+	<li><a href="http://support.mozilla.com/en-US/kb/Cookies">Firefox</a></li>
+	<li><a href="http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647">Chrome</a></li>
+	<li><a href="http://support.apple.com/kb/PH5042">Safari</a></li>
+</ul>
+]]></phrase>
+  <phrase title="hidden" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hidden]]></phrase>
+  <phrase title="hide" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hide]]></phrase>
+  <phrase title="hide_this_navigation_when_there_no_viewable_children" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hide this navigation when there are no viewable children]]></phrase>
+  <phrase title="highest_posting_members" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[もっとも投稿が多いメンバー]]></phrase>
+  <phrase title="home" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[ホーム]]></phrase>
+  <phrase title="home_page" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Web]]></phrase>
+  <phrase title="host" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Host]]></phrase>
+  <phrase title="hours" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[時間]]></phrase>
+  <phrase title="html" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[HTML]]></phrase>
+  <phrase title="html_body" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[HTML Body]]></phrase>
+  <phrase title="html_link_code" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[HTML Link Code]]></phrase>
+  <phrase title="html_link_code_explain" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Copy and paste this code to create a labeled link on a webpage.]]></phrase>
+  <phrase title="html_link_snippet" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[HTML Link Code]]></phrase>

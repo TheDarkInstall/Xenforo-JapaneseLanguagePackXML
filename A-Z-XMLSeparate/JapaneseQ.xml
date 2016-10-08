@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<phrase title="question" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[質問１]]></phrase>
+  <phrase title="question_and_answer_captchas" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Question and Answer CAPTCHAs]]></phrase>
+  <phrase title="question_import_choice" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Question Import Choice]]></phrase>
+  <phrase title="question_import_choice_explain" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[In the event that multiple questions are found in a single poll, would you prefer to import the first, or the last question found?]]></phrase>
+  <phrase title="question_is_active" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Question is active]]></phrase>
+  <phrase title="quick_check_all" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Quick check all]]></phrase>
+  <phrase title="quick_links" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[便利なリンク]]></phrase>
+  <phrase title="quick_navigation_menu" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[便利なナビメニュー]]></phrase>
+  <phrase title="quick_set_selected_items" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Quick-Set Selected Items]]></phrase>
+  <phrase title="quick_set_thread_prefixes" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Quick-Set Thread Prefixes]]></phrase>
+  <phrase title="quote" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Quote]]></phrase>
+  <phrase title="quotes_your_message" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[あなたのメッセージを引用する]]></phrase>

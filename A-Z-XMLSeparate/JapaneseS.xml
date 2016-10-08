@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<phrase title="save" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Lưu]]></phrase>
+  <phrase title="save_add_on" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Add-on]]></phrase>
+  <phrase title="save_administrator" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Administrator]]></phrase>
+  <phrase title="save_admin_navigation" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Admin Navigation]]></phrase>
+  <phrase title="save_all_changes" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save all Changes]]></phrase>
+  <phrase title="save_and_exit" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save and Exit]]></phrase>
+  <phrase title="save_and_reload" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Lưu và Tải lại]]></phrase>
+  <phrase title="save_bb_code_media_site" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save BB Code Media Site]]></phrase>
+  <phrase title="save_category" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Category]]></phrase>
+  <phrase title="save_changes" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[変更を保存する]]></phrase>
+  <phrase title="save_code_event" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Code Event]]></phrase>
+  <phrase title="save_cron_entry" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Cron Entry]]></phrase>
+  <phrase title="save_event_listener" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Event Listener]]></phrase>
+  <phrase title="save_feed" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Save Feed]]></phrase>
+  <phrase title="save_field" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Save Field]]></phrase>
+  <phrase title="save_forum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Forum]]></phrase>
+  <phrase title="save_language" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Language]]></phrase>
+  <phrase title="save_link_forum" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Link Forum]]></phrase>
+  <phrase title="save_moderator" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Moderator]]></phrase>
+  <phrase title="save_notice" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Save Notice]]></phrase>
+  <phrase title="save_option" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Option]]></phrase>
+  <phrase title="save_option_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Option Group]]></phrase>
+  <phrase title="save_page" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Page]]></phrase>
+  <phrase title="save_permission" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Permission]]></phrase>
+  <phrase title="save_permission_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Permission Group]]></phrase>
+  <phrase title="save_permission_interface_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Permission Interface Group]]></phrase>
+  <phrase title="save_phrase" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Phrase]]></phrase>
+  <phrase title="save_prefix" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Prefix]]></phrase>
+  <phrase title="save_promotion" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Save Promotion]]></phrase>
+  <phrase title="save_property_definition" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Property Definition]]></phrase>
+  <phrase title="save_property_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Property Group]]></phrase>
+  <phrase title="save_question" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Save Question]]></phrase>
+  <phrase title="save_smilie" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Smilie]]></phrase>
+  <phrase title="save_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Style]]></phrase>
+  <phrase title="save_template" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Template]]></phrase>
+  <phrase title="save_thread_prefix" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Save Thread Prefix]]></phrase>
+  <phrase title="save_thread_prefix_group" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Save Thread Prefix Group]]></phrase>
+  <phrase title="save_trophy" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Trophy]]></phrase>
+  <phrase title="save_user" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save User]]></phrase>
+  <phrase title="save_user_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save User Group]]></phrase>
+  <phrase title="save_user_upgrade" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save User Upgrade]]></phrase>
+  <phrase title="save_warning" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Save Warning]]></phrase>
+  <phrase title="save_warning_action" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Save Warning Action]]></phrase>
+  <phrase title="scalar_with_default_value" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Scalar with default value]]></phrase>
+  <phrase title="search" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[検索する]]></phrase>
+  <phrase title="searching" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[検索中]]></phrase>
+  <phrase title="search_again" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[もう一度検索する]]></phrase>
+  <phrase title="search_by_ip_address" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search by IP Address]]></phrase>
+  <phrase title="search_child_forums_as_well" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[子フォーラムも検索する]]></phrase>
+  <phrase title="search_could_not_be_completed_because_search_keywords_were_too" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[検索を完了できませんでした。検索したキーワードが短すぎるか、長すぎた可能性があります]]></phrase>
+  <phrase title="search_everything" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[全てを検索する]]></phrase>
+  <phrase title="search_forums" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[フォーラムを検索する]]></phrase>
+  <phrase title="search_for_gravatar_when_users_do_not_have_avatar" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Search for Gravatar when users do not have an avatar]]></phrase>
+  <phrase title="search_for_users" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Search for Users]]></phrase>
+  <phrase title="search_index" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Search Index]]></phrase>
+  <phrase title="search_in_forums" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[フォーラムの中で検索する]]></phrase>
+  <phrase title="search_only_in_thread" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search Only in Thread]]></phrase>
+  <phrase title="search_only_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search only {title}]]></phrase>
+  <phrase title="search_phrases" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Search Phrases]]></phrase>
+  <phrase title="search_preferences" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search Preferences]]></phrase>
+  <phrase title="search_profile_posts" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[プロフィール投稿を検索する]]></phrase>
+  <phrase title="search_promotion_history" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search Promotion History]]></phrase>
+  <phrase title="search_results" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[検索結果]]></phrase>
+  <phrase title="search_results_for_query" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[あなたのクエリの検索結果]]></phrase>
+  <phrase title="search_templates" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Search Templates]]></phrase>
+  <phrase title="search_this_forum" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[このフォーラムを検索する]]></phrase>
+  <phrase title="search_this_forum_only" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search this forum only]]></phrase>
+  <phrase title="search_this_thread_only" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Search this thread only]]></phrase>
+  <phrase title="search_threads_and_posts" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スレッドと投稿を検索する]]></phrase>
+  <phrase title="search_threads_started_by_this_member_only" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[このメンバーが立てたスレッドのみを検索する]]></phrase>
+  <phrase title="search_titles_only" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[タイトルのみを検索する]]></phrase>
+  <phrase title="secondary" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Secondary]]></phrase>
+  <phrase title="secondary_user_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Secondary user group]]></phrase>
+  <phrase title="secondary_user_groups" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Secondary User Groups]]></phrase>
+  <phrase title="security_error_occurred" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[セキュリティエラーが発生しまた。「戻る」を選択して、ページを再読み込みし、もう一度やりなおしてください。]]></phrase>
+  <phrase title="see_all_online_users" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[すべてのオンライン中のユーザーを見る]]></phrase>
+  <phrase title="see_all_visitors" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[すべての現在のビジターを見る]]></phrase>
+  <phrase title="selected_navigation_tab_id_is" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Selected Navigation Tab is]]></phrase>
+  <phrase title="selected_posts" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[選択された投稿]]></phrase>
+  <phrase title="selected_tab_criteria_explain" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[ID of selected navigation tab, such as <b>forums</b>, <b>members</b> or <b>help</b>.]]></phrase>
+  <phrase title="selected_threads" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[選択されたスレッド]]></phrase>
+  <phrase title="selected_user_groups" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Selected User Groups]]></phrase>
+  <phrase title="selecting_this_option_will_permanently_and_irreversibly_delete_item" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[このオプションを選択すると、完全に削除され、復元は不可能です。]]></phrase>
+  <phrase title="select_all" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[すべてを選択する]]></phrase>
+  <phrase title="select_all_items_in_this_group" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[Select all items in this group.]]></phrase>
+  <phrase title="select_background_color" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Select background color]]></phrase>
+  <phrase title="select_deselect_all_posts_on_this_page" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Select / deselect all posts on this page]]></phrase>
+  <phrase title="select_deselect_all_threads_on_this_page" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Select / deselect all threads on this page]]></phrase>
+  <phrase title="select_destination_forum_prompt" addon_id="XenForo" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[(Select destination forum)]]></phrase>
+  <phrase title="select_forum_for_feed" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Select the forum into which new discussions created from this feed will be posted.]]></phrase>
+  <phrase title="select_for_thread_moderation" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[このスレッドがモデレートされるように選択する]]></phrase>
+  <phrase title="select_language_in_which_this_site_should_be_shown" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[このサイトで通常表示する言語を選択する]]></phrase>
+  <phrase title="select_menu" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Select Menu]]></phrase>
+  <phrase title="select_style_in_which_this_site_should_be_shown" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[このサイトで通常適用するスタイルを選択する]]></phrase>
+  <phrase title="select_system_to_import_from" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Select system to import from]]></phrase>
+  <phrase title="select_tags_must_specify_name" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Select tags must specify a name.]]></phrase>
+  <phrase title="select_this_post" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Select this post]]></phrase>
+  <phrase title="select_this_post_by_x" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[この{name}に投稿されたポストを選択する]]></phrase>
+  <phrase title="select_thread" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[スレッドを選択する]]></phrase>
+  <phrase title="sending_email" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sending Email]]></phrase>
+  <phrase title="send_email" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Send Email]]></phrase>
+  <phrase title="send_message" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[メッセージを送信する]]></phrase>
+  <phrase title="send_test_email" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Send Test Email]]></phrase>
+  <phrase title="sentence_case" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sentence case]]></phrase>
+  <phrase title="separate_names_with_comma" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[名前をコンマで区切る。]]></phrase>
+  <phrase title="server_did_not_respond_in_time_try_again" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[The server did not respond in time. Please try again.]]></phrase>
+  <phrase title="server_error_log" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Server Error Log]]></phrase>
+  <phrase title="server_error_logs" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Server Error Logs]]></phrase>
+  <phrase title="server_error_occurred" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[セーバーエラーが発生しました。しばらくしてから、お試しください。]]></phrase>
+  <phrase title="service_id" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Service ID]]></phrase>
+  <phrase title="service_name" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Service Name]]></phrase>
+  <phrase title="settings" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[設定]]></phrase>
+  <phrase title="set_options" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[オプションを設定する]]></phrase>
+  <phrase title="set_permissions" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Set Permissions]]></phrase>
+  <phrase title="set_permission_never_global_desc" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Setting a permission to 'Never' will prevent this permission from being overridden by values in other permission sets or in node permissions.
+
+If you are not sure this is the behavior you want, select 'Not Set (No)' instead.
+]]></phrase>
+  <phrase title="set_permission_never_node_desc" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Setting a permission to 'Never' will prevent this permission from being overridden by values in other permission sets or in child nodes.
+
+If you are not sure this is the behavior you want, select 'Revoke' instead.
+]]></phrase>
+  <phrase title="set_return_path_with_f_parameter" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Set return path with -f parameter (recommended, but does not work on all servers)]]></phrase>
+  <phrase title="set_thread_status" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スレッドのステータスを決定する]]></phrase>
+  <phrase title="set_x_as_default_language" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Set '{title}' as the default language]]></phrase>
+  <phrase title="set_x_as_default_style" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Set '{title}' as the default style]]></phrase>
+  <phrase title="share_this_page" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[このページをシェアする]]></phrase>
+  <phrase title="should_conversation_receive_responses_restored_to_inbox" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Should this conversation receive further responses in the future, this conversation will be restored to your inbox.]]></phrase>
+  <phrase title="show" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Show]]></phrase>
+  <phrase title="showing_results_x_to_y_of_z" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{total}の{start]から{end}までの結果を表示しています]]></phrase>
+  <phrase title="showing_threads_x_to_y_of_z" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[{total}の{start]から{end}までのスレッドを表示しています]]></phrase>
+  <phrase title="showing_x_admin_style_property_groups" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Showing {groups} admin style property groups]]></phrase>
+  <phrase title="showing_x_of_y_items" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Showing {count} of {total} items]]></phrase>
+  <phrase title="show_all" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[すべてを表示する]]></phrase>
+  <phrase title="show_all_conversations" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[すべての会話を表示する]]></phrase>
+  <phrase title="show_all_watched_threads" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[すべてのウォッチ状態になっているスレッドを表示する]]></phrase>
+  <phrase title="show_attachments_uploaded_since" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show attachments uploaded since...]]></phrase>
+  <phrase title="show_customizable_templates" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Show Customizable Templates]]></phrase>
+  <phrase title="show_daily_statistics_from" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show daily statistics from]]></phrase>
+  <phrase title="show_day_and_month_of_birth" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[誕生日の月と日を表示する]]></phrase>
+  <phrase title="show_deleted_posts" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Show Deleted Posts]]></phrase>
+  <phrase title="show_during_registration" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show during registration]]></phrase>
+  <phrase title="show_hidden_content_by_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show hidden content by {names}]]></phrase>
+  <phrase title="show_ignored_content" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show Ignored Content]]></phrase>
+  <phrase title="show_in_original_location" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Show in original location]]></phrase>
+  <phrase title="show_master_templates" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Show Master Templates]]></phrase>
+  <phrase title="show_older_items" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[より古い項目を表示する]]></phrase>
+  <phrase title="show_online_status" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[オンライン状態を表示する]]></phrase>
+  <phrase title="show_only_attachments_uploaded_after" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show only attachments uploaded after...]]></phrase>
+  <phrase title="show_only_attachments_uploaded_before" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show only attachments uploaded before...]]></phrase>
+  <phrase title="show_only_attachments_uploaded_by" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show only attachments uploaded by...]]></phrase>
+  <phrase title="show_only_conversations" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[会話のみを表示する]]></phrase>
+  <phrase title="show_only_files_attached_to_content_type" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show only files attached to content of type...]]></phrase>
+  <phrase title="show_only_threads_prefixed_by_x" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA['{prefix}'というプリフィックスがあるスレッドのみを表示する]]></phrase>
+  <phrase title="show_peoples_signatures_with_their_messages" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[メッセージとともに利用者のシグネチャを表示する]]></phrase>
+  <phrase title="show_signatures_with_messages" addon_id="XenForo" version_id="1000370" version_string="1.0.3"><![CDATA[Show signatures with messages]]></phrase>
+  <phrase title="show_statistics_from" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show statistics from...]]></phrase>
+  <phrase title="show_this_site_on_list_of_supported_sites_shown_to_visitors" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Show this site on the list of 'supported' sites shown to visitors]]></phrase>
+  <phrase title="show_year_of_birth" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[誕生日の年を表示する]]></phrase>
+  <phrase title="show_your_online_status" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[自分のオンライン状態を表示する]]></phrase>
+  <phrase title="sibling" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sibling]]></phrase>
+  <phrase title="sibling_node" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sibling Node]]></phrase>
+  <phrase title="signature" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[シグネチャ]]></phrase>
+  <phrase title="signed_in_as_x_sidebar" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[<span class="muted">Signed in as</span> {name}]]></phrase>
+  <phrase title="sign_up" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[サインアップする]]></phrase>
+  <phrase title="sign_up_now" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[今すぐサインアップする！]]></phrase>
+  <phrase title="sign_up_with_facebook" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Facebookのログインでサンアップする]]></phrase>
+  <phrase title="single_line_text_box" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Single-line text box]]></phrase>
+  <phrase title="site_title" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site Title]]></phrase>
+  <phrase title="site_url" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site URL]]></phrase>
+  <phrase title="size" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Size]]></phrase>
+  <phrase title="small_caps" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Small Caps]]></phrase>
+  <phrase title="smilies" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スマイリー]]></phrase>
+  <phrase title="smilie_replacement_text_must_be_unique_x_in_use" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Smilie replacement text must be unique. The replacement '{text}' is already in use.]]></phrase>
+  <phrase title="solid" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Solid]]></phrase>
+  <phrase title="someone_adds_you_to_conversation_that_was_already_in_progress" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Someone adds you to a conversation that was already in progress]]></phrase>
+  <phrase title="someone_comments_on_message_on_your_profile_page_or_your_status" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[自分のプロフィールページに残されたメッセージか、自分のステータスに、誰かがコメントを残す時]]></phrase>
+  <phrase title="someone_comments_on_message_you_left_on_someone_elses_profile" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[他の人のプロフィールページに自分が書いたメッセージに、誰かがコメントを残す時]]></phrase>
+  <phrase title="someone_comments_on_profile_post_that_you_have_commented_on" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[自分がコメントを残したプロフィールポストに、誰かがコメントを残す時]]></phrase>
+  <phrase title="someone_directly_quotes_one_of_your_messages_in_thread" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[自分のメッセージを、誰かが、スレッドの中で直接引用する時]]></phrase>
+  <phrase title="someone_likes_message_you_left_on_member_profile_page" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[他のメンバーのプロフィールページに自分が残したメッセージを誰かがLIKEする時]]></phrase>
+  <phrase title="someone_likes_one_of_your_messages_in_thread" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[自分のメッセージを、スレッドの中で、誰かがLIKEする時]]></phrase>
+  <phrase title="someone_posts_message_on_your_profile_page" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[誰かが自分のプロファイルページにメッセージを投稿する時]]></phrase>
+  <phrase title="someone_replies_and_attaches_a_file_to_a_thread_you_are_watching" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[自分がウォッチ状態にしているスレッドに、誰かが投稿して、ファイルを添付する時]]></phrase>
+  <phrase title="someone_replies_to_conversation_in_which_you_participant" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Someone replies to a conversation in which you are a participant]]></phrase>
+  <phrase title="someone_replies_to_thread_you_are_watching" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[自分がウォッチ状態にしているスレッドに、誰かが投稿する時]]></phrase>
+  <phrase title="someone_starts_following_you" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[誰かが、あなたをフォローし始める時]]></phrase>
+  <phrase title="someone_starts_new_conversation_with_you" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Someone starts a new conversation with you]]></phrase>
+  <phrase title="some_data_can_not_be_rebuilt" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Some data may not be rebuilt retroactively. Use this option only if you have a specific reason to do so. Data deletion can not be undone.]]></phrase>
+  <phrase title="sorry" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sorry.]]></phrase>
+  <phrase title="sorry_dave" addon_id="XenForo" version_id="0" version_string=""><![CDATA[I'm sorry Dave, I'm afraid I can't do that.]]></phrase>
+  <phrase title="sorry_you_too_young_to_create_an_account" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Sorry, you are too young to create an account.]]></phrase>
+  <phrase title="sort" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sort]]></phrase>
+  <phrase title="sort_by" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sort by]]></phrase>
+  <phrase title="sort_threads_by" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スレッドの並び替え順序を以下の通り]]></phrase>
+  <phrase title="source_database_connection_details_not_correct_x" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The source database connection details are not correct: {error}]]></phrase>
+  <phrase title="spam" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Spam]]></phrase>
+  <phrase title="spam_cleaner" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[スパムクリーナー]]></phrase>
+  <phrase title="spam_cleaner_applied_subject" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Anti-Spam Measures at {board_title}]]></phrase>
+  <phrase title="spam_cleaner_controls" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[スパムクリーナーのコントロール]]></phrase>
+  <phrase title="spam_cleaner_ip_address_check" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Spam Cleaner IP Address Check]]></phrase>
+  <phrase title="spam_cleaner_log" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Spam Cleaner Log]]></phrase>
+  <phrase title="spam_cleaner_no_admins_or_mods" addon_id="XenForo" version_id="0" version_string=""><![CDATA[It is not possible to use the spam cleaner against administrators or moderators.]]></phrase>
+  <phrase title="spam_cleaner_registered_too_long" addon_id="XenForo" version_id="0" version_string=""><![CDATA[You may not use the spam cleaner against users who have been registered for longer than {register_days} days.]]></phrase>
+  <phrase title="spam_cleaner_too_many_likes" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[You may not use the spam cleaner against users who have received more than {total_likes} likes.]]></phrase>
+  <phrase title="spam_cleaner_too_many_messages" addon_id="XenForo" version_id="0" version_string=""><![CDATA[You may not use the spam cleaner against users with more than {message_count} messages.]]></phrase>
+  <phrase title="spam_cleaner_was_run_by_x" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The spam cleaner was run by {name}]]></phrase>
+  <phrase title="spam_deleted" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bang and the spam is gone!]]></phrase>
+  <phrase title="specific_users" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Specific Users]]></phrase>
+  <phrase title="specified_add_on_does_not_match_add_on_you_chose_to_upgrade" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The specified add-on does not match the add-on you chose to upgrade.]]></phrase>
+  <phrase title="specified_add_on_is_already_installed" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The specified add-on is already installed. Please use the upgrade page if you would like to upgrade it.]]></phrase>
+  <phrase title="specified_add_on_is_older_than_install_version" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The specified add-on is older than the install version. Downgrading is not possible.]]></phrase>
+  <phrase title="specified_destination_node_does_not_exist" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The specified destination node does not exist.]]></phrase>
+  <phrase title="specified_instant_messaging_service_was_not_recognised" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The specified instant messaging service was not recognised.]]></phrase>
+  <phrase title="specified_ip_invalid" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The IP address specified is invalid.]]></phrase>
+  <phrase title="specified_location_invalid" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The specified location is invalid.]]></phrase>
+  <phrase title="specified_member_cannot_be_found_enter_entire_name" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[指定されたメンバーが見つかりません。メンバーのフルネームを入力してください。]]></phrase>
+  <phrase title="specified_url_cannot_be_embedded_as_media" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The specified URL cannot be embedded as media.]]></phrase>
+  <phrase title="spin_box" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Spin Box]]></phrase>
+  <phrase title="spin_box_tags_must_specify_name" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Spin box tags must specify a name.]]></phrase>
+  <phrase title="sprite_dimensions" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sprite Dimensions]]></phrase>
+  <phrase title="sprite_mode" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sprite Mode]]></phrase>
+  <phrase title="sprite_position" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Sprite Position]]></phrase>
+  <phrase title="stack_trace" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Stack Trace]]></phrase>
+  <phrase title="staff_members_may_not_be_ignored" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Staff members may not be ignored.]]></phrase>
+  <phrase title="staff_online_now" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スタッフが今オンラインです]]></phrase>
+  <phrase title="staff_only" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Staff Only]]></phrase>
+  <phrase title="standard_search" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Standard Search]]></phrase>
+  <phrase title="started_by" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[スタートした人]]></phrase>
+  <phrase title="starts_conversation" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[会話を始める]]></phrase>
+  <phrase title="start_a_conversation_now" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[今すぐ会話を始める]]></phrase>
+  <phrase title="start_conversation" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[会話を始める]]></phrase>
+  <phrase title="start_conversations_with_you" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[あなたと会話を始める]]></phrase>
+  <phrase title="start_conversation_with_x" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[{name}と会話を始める]]></phrase>
+  <phrase title="start_date" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[開始日]]></phrase>
+  <phrase title="start_fresh_import" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[新たなインポートを始める]]></phrase>
+  <phrase title="start_new_conversation" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[新しい会話を始める]]></phrase>
+  <phrase title="state" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[状態]]></phrase>
+  <phrase title="statistics" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Statistics]]></phrase>
+  <phrase title="status" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Status]]></phrase>
+  <phrase title="status_changed" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Status Changed]]></phrase>
+  <phrase title="status_message" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[ステータスのメッセージ]]></phrase>
+  <phrase title="status_update_by_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Status update by {username}]]></phrase>
+  <phrase title="stay_logged_in" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[ログイン状態を保つ]]></phrase>
+  <phrase title="sticky" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スティッキー]]></phrase>
+  <phrase title="sticky_threads_appear_at_top_of_first_page_of_list_of_threads" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スティッキースレッドは親フォーラムのスレッドリストの最初のページのトップに表れる]]></phrase>
+  <phrase title="stick_threads" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stick Threads]]></phrase>
+  <phrase title="stop_following_x" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stop following {name}]]></phrase>
+  <phrase title="stop_ignoring" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Stop Ignoring]]></phrase>
+  <phrase title="stop_ignoring_x" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Stop Ignoring {name}]]></phrase>
+  <phrase title="stop_rebuilding" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Stop rebuilding]]></phrase>
+  <phrase title="stop_watching" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[ウォッチ状態を解除する]]></phrase>
+  <phrase title="stop_watching_this_thread" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[このスレッドのウォッチ状態を解除する]]></phrase>
+  <phrase title="stop_watching_threads" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stop watching threads]]></phrase>
+  <phrase title="strike_through" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[取り消し線]]></phrase>
+  <phrase title="string" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[String]]></phrase>
+  <phrase title="string_could_not_be_converted_to_input" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The specified string could not be converted to an input object, either because it was not found or because it contained errors.]]></phrase>
+  <phrase title="style" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スタイル]]></phrase>
+  <phrase title="styles" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スタイル（複数）]]></phrase>
+  <phrase title="style_chooser" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[スタイルセレクター]]></phrase>
+  <phrase title="style_contains_no_customized_templates_or_style_properties" addon_id="XenForo" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[This style contains no customized templates or style properties.]]></phrase>
+  <phrase title="style_properties" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Style Properties]]></phrase>
+  <phrase title="style_properties_in_style_can_not_be_modified" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Style properties in this style can not be modified. Please try another.]]></phrase>
+  <phrase title="style_property_ajaxProgress_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This styles the element that appears when AJAX operations are in progress.]]></phrase>
+  <phrase title="style_property_ajaxProgress_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[AJAX Progress Indicator]]></phrase>
+  <phrase title="style_property_alertBalloonArrow_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the appearance of the pointer-arrow attached to alert balloons.]]></phrase>
+  <phrase title="style_property_alertBalloonArrow_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Alert Balloon Arrow]]></phrase>
+  <phrase title="style_property_alertBalloon_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the appearance of the balloons that appear above Inbox and Alerts in the navigation bar to indicate unread items.]]></phrase>
+  <phrase title="style_property_alertBalloon_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Alert Balloon]]></phrase>
+  <phrase title="style_property_animationSpeedMultiplier_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[If you enable animations, you can adjust the speed using the multiplier. 1: Normal speed, 0.5: double speed, 2: half speed etc.]]></phrase>
+  <phrase title="style_property_animationSpeedMultiplier_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Enable Animations, Using Multiplier:]]></phrase>
+  <phrase title="style_property_avatar_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the display of most avatars (user identity pictures) shown throughout the system.]]></phrase>
+  <phrase title="style_property_avatar_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Avatar]]></phrase>
+  <phrase title="style_property_bbCodeBlockType_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Styles the row in which the type of BB code is noted (HTML, Code etc.)]]></phrase>
+  <phrase title="style_property_bbCodeBlockType_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Block Type Row]]></phrase>
+  <phrase title="style_property_bbCodeBlock_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the basic layout of a BB code block such as [quote] or [code].]]></phrase>
+  <phrase title="style_property_bbCodeBlock_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Block]]></phrase>
+  <phrase title="style_property_bbCodeCode_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Styles the area containing code such as [php], [html] and [code].]]></phrase>
+  <phrase title="style_property_bbCodeCode_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Pre / Code]]></phrase>
+  <phrase title="style_property_bbCodeQuoteAttribution_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the appearance of the attribution row that sits above a quoted message.]]></phrase>
+  <phrase title="style_property_bbCodeQuoteAttribution_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Quote Attribution Block]]></phrase>
+  <phrase title="style_property_bbCodeQuoteMessage_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This styling applies to the message area of [QUOTE] blocks, styling the actual quoted message itself.]]></phrase>
+  <phrase title="style_property_bbCodeQuoteMessage_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Quote Message]]></phrase>
+  <phrase title="style_property_bbCodeQuote_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This definition is used together with the BB Code Block definition to provide styling for [QUOTE] blocks.]]></phrase>
+  <phrase title="style_property_bbCodeQuote_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Quote]]></phrase>
+  <phrase title="style_property_blockLinksListItemActive_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_blockLinksListItemActive_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu Link, Active State]]></phrase>
+  <phrase title="style_property_blockLinksListItemHover_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_blockLinksListItemHover_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu Link, Hover State]]></phrase>
+  <phrase title="style_property_blockLinksListItemSelected_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_blockLinksListItemSelected_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu Link, Selected State]]></phrase>
+  <phrase title="style_property_blockLinksListItem_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_blockLinksListItem_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu Link]]></phrase>
+  <phrase title="style_property_blockLinksList_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_blockLinksList_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu Links Container]]></phrase>
+  <phrase title="style_property_body_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This property controls the CSS for the main <body> element of XenForo pages.
+
+Primarily, it is used for text styling, which is inherited by almost all other elements within XenForo.]]></phrase>
+  <phrase title="style_property_body_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Body]]></phrase>
+  <phrase title="style_property_breadBoxTopCtrl_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sometimes the top breadcrumb is associated with a call to action button. This property controls the container for that button.]]></phrase>
+  <phrase title="style_property_breadBoxTopCtrl_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Call-to-Action Button]]></phrase>
+  <phrase title="style_property_breadBox_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the container within which the breadcrumb sits.]]></phrase>
+  <phrase title="style_property_breadBox_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Container]]></phrase>
+  <phrase title="style_property_breadcrumbBoardTitle_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[You may optionally display the board title at the head of your breadcrumb.]]></phrase>
+  <phrase title="style_property_breadcrumbBoardTitle_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Board Title]]></phrase>
+  <phrase title="style_property_breadcrumbItemArrowInner_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_breadcrumbItemArrowInner_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Arrow, Inner]]></phrase>
+  <phrase title="style_property_breadcrumbItemArrowOuter_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_breadcrumbItemArrowOuter_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Arrow, Outer]]></phrase>
+  <phrase title="style_property_breadcrumbItemCrumbHover_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_breadcrumbItemCrumbHover_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Content, Hover State]]></phrase>
+  <phrase title="style_property_breadcrumbItemCrumb_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_breadcrumbItemCrumb_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Content]]></phrase>
+  <phrase title="style_property_breadcrumbItemCrust_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_breadcrumbItemCrust_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Container]]></phrase>
+  <phrase title="style_property_breadcrumbItemFirstCrumb_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_breadcrumbItemFirstCrumb_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Content, First Item]]></phrase>
+  <phrase title="style_property_breadcrumbItemLastCrumb_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_breadcrumbItemLastCrumb_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Content, Last Item]]></phrase>
+  <phrase title="style_property_breadcrumbJumpMenuTrigger_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_breadcrumbJumpMenuTrigger_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Jump Menu Trigger]]></phrase>
+  <phrase title="style_property_breadcrumbTitlePrefix_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the styling of title prefixes when shown within breadcrumb elements.]]></phrase>
+  <phrase title="style_property_breadcrumbTitlePrefix_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Item Content Title Prefix]]></phrase>
+  <phrase title="style_property_breadcrumb_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the main breadcrumb unit.]]></phrase>
+  <phrase title="style_property_breadcrumb_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Breadcrumb]]></phrase>
+  <phrase title="style_property_buttonActive_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_buttonActive_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Button, Active State]]></phrase>
+  <phrase title="style_property_buttonFocus_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_buttonFocus_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Button, Focus State]]></phrase>
+  <phrase title="style_property_buttonHover_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_buttonHover_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Button, Hover State]]></phrase>
+  <phrase title="style_property_button_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[This property controls the .button class, which is used for form controls and action buttons throughout the system.]]></phrase>
+  <phrase title="style_property_button_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Button]]></phrase>
+  <phrase title="style_property_callToActionActive_description_master" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Used to style the 'clicked' state of call to action buttons]]></phrase>
+  <phrase title="style_property_callToActionActive_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Call-to-Action Button, Active State]]></phrase>
+  <phrase title="style_property_callToActionHover_description_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Used to style the mouse-over / hover state of call to action buttons.]]></phrase>
+  <phrase title="style_property_callToActionHover_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Call-to-Action Button, Hover State]]></phrase>
+  <phrase title="style_property_callToActionSpan_description_master" addon_id="XenForo" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Controls the <span> inside call to action buttons]]></phrase>
+  <phrase title="style_property_callToActionSpan_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Call-to-Action Button Inner]]></phrase>
+  <phrase title="style_property_callToAction_description_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Controls the style of major call to action buttons such as 'Reply to Thread'.]]></phrase>
+  <phrase title="style_property_callToAction_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Call-to-Action Button Container]]></phrase>
+  <phrase title="style_property_categoryStripDescription_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_categoryStripDescription_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Category Strip Description]]></phrase>
+  <phrase title="style_property_categoryStripTitle_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_categoryStripTitle_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Category Strip Title]]></phrase>
+  <phrase title="style_property_categoryStrip_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Applied to level one (no parent) categories. The majority of the styles for category strips come by default from the @subHeading style property.]]></phrase>
+  <phrase title="style_property_categoryStrip_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Category Strip]]></phrase>
+  <phrase title="style_property_contentBackground_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Main page background color]]></phrase>
+  <phrase title="style_property_contentBackground_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Content Background]]></phrase>
+  <phrase title="style_property_contentText_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Main text color]]></phrase>
+  <phrase title="style_property_contentText_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Content Text]]></phrase>
+  <phrase title="style_property_contentWidth_admin" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Content Width]]></phrase>
+  <phrase title="style_property_contentWidth_description_admin" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_content_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The styling of the main page area is controlled with this property.
+
+Its primary function is to provide the content background color.]]></phrase>
+  <phrase title="style_property_content_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Content]]></phrase>
+  <phrase title="style_property_ctrlUnitCtrlExplain_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles longer explanatory text that may appear below form controls in control units.]]></phrase>
+  <phrase title="style_property_ctrlUnitCtrlExplain_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Control Explanatory Text]]></phrase>
+  <phrase title="style_property_ctrlUnitCtrl_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles the area containing the actual form controls and any explanation text within the control unit.]]></phrase>
+  <phrase title="style_property_ctrlUnitCtrl_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls Area]]></phrase>
+  <phrase title="style_property_ctrlUnitEdgeSpacer_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Defines a horizontal spacing either side of control units.]]></phrase>
+  <phrase title="style_property_ctrlUnitEdgeSpacer_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Form Control Unit Edge Spacer]]></phrase>
+  <phrase title="style_property_ctrlUnitLabelError_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the display of any inline validation errors that appear with form element labels.]]></phrase>
+  <phrase title="style_property_ctrlUnitLabelError_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Label Inline Errors]]></phrase>
+  <phrase title="style_property_ctrlUnitLabelHint_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles any supplementary text to accompany the label for form controls in the labels area.]]></phrase>
+  <phrase title="style_property_ctrlUnitLabelHint_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Label Hints]]></phrase>
+  <phrase title="style_property_ctrlUnitLabelWidth_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Defines the width of the label area to the left of form control units.]]></phrase>
+  <phrase title="style_property_ctrlUnitLabelWidth_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Form Control Unit Label Width]]></phrase>
+  <phrase title="style_property_ctrlUnitLabel_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the area containing the label within the control unit.]]></phrase>
+  <phrase title="style_property_ctrlUnitLabel_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Label Area]]></phrase>
+  <phrase title="style_property_ctrlUnit_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the individual blocks around which forms in XenForo are built.]]></phrase>
+  <phrase title="style_property_ctrlUnit_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Control Unit]]></phrase>
+  <phrase title="style_property_definitions_must_be_unique_per_style" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Style property definitions must be unique per style. The specified ID is already used in this style.]]></phrase>
+  <phrase title="style_property_dicussionListIcon_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the appearance of flags / icons for discussions such as sticky, locked etc.]]></phrase>
+  <phrase title="style_property_dicussionListIcon_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Discussion Flag]]></phrase>
+  <phrase title="style_property_dimmedTextColor_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_dimmedTextColor_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Dimmed Text (-1)]]></phrase>
+  <phrase title="style_property_discussionListAvatarWidth_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the width of the avatar cell.]]></phrase>
+  <phrase title="style_property_discussionListAvatarWidth_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Avatar Cell Width]]></phrase>
+  <phrase title="style_property_discussionListAvatar_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the appearance of the avatar of the user who started the discussion.]]></phrase>
+  <phrase title="style_property_discussionListAvatar_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Discussion Starter Avatar]]></phrase>
+  <phrase title="style_property_discussionListFirstRow_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the display of text on the first row of discussion list items, including the title.]]></phrase>
+  <phrase title="style_property_discussionListFirstRow_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[First Row Text]]></phrase>
+  <phrase title="style_property_discussionListItemPageNavItem_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls individual items within the discussion page nav.]]></phrase>
+  <phrase title="style_property_discussionListItemPageNavItem_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Page Nav Item]]></phrase>
+  <phrase title="style_property_discussionListItemPageNavLinkHover_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Changes applied to page links on hover.]]></phrase>
+  <phrase title="style_property_discussionListItemPageNavLinkHover_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Page Nav Link, Hover State]]></phrase>
+  <phrase title="style_property_discussionListItemPageNavLink_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_discussionListItemPageNavLink_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Item Page Nav Link]]></phrase>
+  <phrase title="style_property_discussionListLastPostWidth_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the width of the 'last message' cell.]]></phrase>
+  <phrase title="style_property_discussionListLastPostWidth_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Last Message Cell Width]]></phrase>
+  <phrase title="style_property_discussionListMiniMeImg_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Mini-Me is the small avatar of the current visitor that shows up on discussions in which the visitor has posted.]]></phrase>
+  <phrase title="style_property_discussionListMiniMeImg_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Mini-Me Image]]></phrase>
+  <phrase title="style_property_discussionListMiniMe_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Mini-Me is the small avatar of the current visitor that shows up on discussions in which the visitor has posted.]]></phrase>
+  <phrase title="style_property_discussionListMiniMe_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Mini-Me Container]]></phrase>
+  <phrase title="style_property_discussionListOptionsHandleLink_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_discussionListOptionsHandleLink_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Options Panel Handle Link]]></phrase>
+  <phrase title="style_property_discussionListOptionsHandle_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_discussionListOptionsHandle_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Options Panel Handle]]></phrase>
+  <phrase title="style_property_discussionListOptions_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the appearance of the display options panel that can appear below the discussion list.]]></phrase>
+  <phrase title="style_property_discussionListOptions_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Options Panel Form]]></phrase>
+  <phrase title="style_property_discussionListPageNavHidden_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This option allows the multi-page navigator shown on discussion list items with multiple pages to remain hidden until the item is moused-over.]]></phrase>
+  <phrase title="style_property_discussionListPageNavHidden_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Hide item page navigator unless hovered]]></phrase>
+  <phrase title="style_property_discussionListPrefix_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the specific styling of prefixes to discussion titles when shown in the discussion list.]]></phrase>
+  <phrase title="style_property_discussionListPrefix_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Title Prefix]]></phrase>
+  <phrase title="style_property_discussionListSecondRow_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the second row of text for discussion list items.]]></phrase>
+  <phrase title="style_property_discussionListSecondRow_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Second Row Text]]></phrase>
+  <phrase title="style_property_discussionListStatsWidth_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the width of the statistics cell.]]></phrase>
+  <phrase title="style_property_discussionListStatsWidth_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Stats Cell Width]]></phrase>
+  <phrase title="style_property_discussionListTitleUnread_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Alters the display of discussion list item titles when they contain unread messages.]]></phrase>
+  <phrase title="style_property_discussionListTitleUnread_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Title (Unread)]]></phrase>
+  <phrase title="style_property_eAuthButtonWidth_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Controls the width of external authentication buttons such as 'Login with Facebook'.]]></phrase>
+  <phrase title="style_property_eAuthButtonWidth_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[External Authentication Button Width]]></phrase>
+  <phrase title="style_property_editorContent_description_master" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[The content of the rich text editor should appear in the same colors, fonts etc. as your messages. If it does not, you can use this style property to tweak the appearance.]]></phrase>
+  <phrase title="style_property_editorContent_master" addon_id="XenForo" version_id="1000052" version_string="1.0.0 Release Candidate 2"><![CDATA[Rich Text Editor Content]]></phrase>
+  <phrase title="style_property_enableOverlays_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[You may disable all overlays and instead load full pages by switching off this option.]]></phrase>
+  <phrase title="style_property_enableOverlays_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Enable Overlays]]></phrase>
+  <phrase title="style_property_faintTextColor_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_faintTextColor_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Faint Text (-3)]]></phrase>
+  <phrase title="style_property_fbColorScheme_description_master" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Choose a color scheme for all Facebook plugins in this style.]]></phrase>
+  <phrase title="style_property_fbColorScheme_master" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Facebook Plugin Color Scheme]]></phrase>
+  <phrase title="style_property_footerLeftBlock_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Styles the container of the style and language chooser trigger controls.]]></phrase>
+  <phrase title="style_property_footerLeftBlock_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Left Content Block]]></phrase>
+  <phrase title="style_property_footerLinkHover_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Styling to be added to links in the main footer section in their hover state.]]></phrase>
+  <phrase title="style_property_footerLinkHover_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Link, Hover State]]></phrase>
+  <phrase title="style_property_footerLink_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Styling for links in the main header section]]></phrase>
+  <phrase title="style_property_footerLink_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Link]]></phrase>
+  <phrase title="style_property_footerRightBlock_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Styles the block of links usually shown on the right of the footer.]]></phrase>
+  <phrase title="style_property_footerRightBlock_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Right Content Block]]></phrase>
+  <phrase title="style_property_footer_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Controls the appearance of the container for the upper footer section.]]></phrase>
+  <phrase title="style_property_footer_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Main Container]]></phrase>
+  <phrase title="style_property_formCtrlIndent_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Defines the amount that controls should be indented from controls upon which they depend.]]></phrase>
+  <phrase title="style_property_formCtrlIndent_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Form Control Unit Controls Indent Width]]></phrase>
+  <phrase title="style_property_formElementPrompt_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styling for placeholder / prompt text in text controls.]]></phrase>
+  <phrase title="style_property_formElementPrompt_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control Placeholder Text]]></phrase>
+  <phrase title="style_property_formOverlayButton_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of buttons in form overlays.]]></phrase>
+  <phrase title="style_property_formOverlayButton_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Button]]></phrase>
+  <phrase title="style_property_formOverlayHeading_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Major headings within form-type overlays.]]></phrase>
+  <phrase title="style_property_formOverlayHeading_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Heading]]></phrase>
+  <phrase title="style_property_formOverlayLabelHint_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles any supplementary text provided for control labels etc.]]></phrase>
+  <phrase title="style_property_formOverlayLabelHint_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Label Hint]]></phrase>
+  <phrase title="style_property_formOverlayLink_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles links within form-type overlays.]]></phrase>
+  <phrase title="style_property_formOverlayLink_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Link]]></phrase>
+  <phrase title="style_property_formOverlaySubHeading_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls minor headings within form-type overlays.]]></phrase>
+  <phrase title="style_property_formOverlaySubHeading_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Sub-Heading]]></phrase>
+  <phrase title="style_property_formOverlayTabActive_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[]]></phrase>
+  <phrase title="style_property_formOverlayTabActive_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab, Active / Selected]]></phrase>
+  <phrase title="style_property_formOverlayTabHover_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls hovered tabs on form overlays.]]></phrase>
+  <phrase title="style_property_formOverlayTabHover_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab, Hover State]]></phrase>
+  <phrase title="style_property_formOverlayTabPanel_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Control the panel that sits below a collection of tabs in a form overlay.]]></phrase>
+  <phrase title="style_property_formOverlayTabPanel_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab Panel]]></phrase>
+  <phrase title="style_property_formOverlayTabs_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of tabs within form overlays.]]></phrase>
+  <phrase title="style_property_formOverlayTabs_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tabs Container]]></phrase>
+  <phrase title="style_property_formOverlayTab_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of individual tabs within form overlays.]]></phrase>
+  <phrase title="style_property_formOverlayTab_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab]]></phrase>
+  <phrase title="style_property_formOverlayTextCtrlDisabled_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls disabled text controls in form overlays.]]></phrase>
+  <phrase title="style_property_formOverlayTextCtrlDisabled_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control, Disabled State]]></phrase>
+  <phrase title="style_property_formOverlayTextCtrlFocus_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls text controls in form overlays when focused.]]></phrase>
+  <phrase title="style_property_formOverlayTextCtrlFocus_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control, Focus State]]></phrase>
+  <phrase title="style_property_formOverlayTextCtrlPrompt_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the placeholder / prompt text within text controls in form overlays.]]></phrase>
+  <phrase title="style_property_formOverlayTextCtrlPrompt_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control Placeholder Text]]></phrase>
+  <phrase title="style_property_formOverlayTextCtrl_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Alters the appearance of text controls within form-type overlays.]]></phrase>
+  <phrase title="style_property_formOverlayTextCtrl_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control]]></phrase>
+  <phrase title="style_property_formOverlayTextHeading_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls textual headings within form-type overlays.]]></phrase>
+  <phrase title="style_property_formOverlayTextHeading_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Heading]]></phrase>
+  <phrase title="style_property_formOverlay_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of form-type overlays.]]></phrase>
+  <phrase title="style_property_formOverlay_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Container]]></phrase>
+  <phrase title="style_property_formWidth_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Controls the width of forms using the .xenForm class.]]></phrase>
+  <phrase title="style_property_formWidth_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Form Width]]></phrase>
+  <phrase title="style_property_genericAttachmentThumb_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the appearance of the generic thumbnail shown for non-image attachments.]]></phrase>
+  <phrase title="style_property_genericAttachmentThumb_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Generic Attachment Thumbnail]]></phrase>
+  <phrase title="style_property_groups" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Style Property Groups]]></phrase>
+  <phrase title="style_property_groups_must_be_unique_per_style" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Style property groups must be unique per style. The specified ID is already used in this or a parent style.]]></phrase>
+  <phrase title="style_property_group_bbCode_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[BB Code Elements]]></phrase>
+  <phrase title="style_property_group_bbCode_master_desc" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the appearance of BB code elements within messages.]]></phrase>
+  <phrase title="style_property_group_breadcrumb_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Breadcrumb]]></phrase>
+  <phrase title="style_property_group_breadcrumb_master_desc" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the breadcrumb unit, which allows users to navigate back up to the site home page.]]></phrase>
+  <phrase title="style_property_group_button_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Buttons]]></phrase>
+  <phrase title="style_property_group_button_master_desc" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Contains properties used to style the various types of buttons used by XenForo.]]></phrase>
+  <phrase title="style_property_group_color_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Color Palette]]></phrase>
+  <phrase title="style_property_group_color_master_desc" addon_id="XenForo" version_id="1010370" version_string="1.1.3"><![CDATA[The set of colors used to build this style.]]></phrase>
+  <phrase title="style_property_group_discussionList_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Discussion List]]></phrase>
+  <phrase title="style_property_group_discussionList_master_desc" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the appearance of the list of discussions within a forum or a conversation etc.]]></phrase>
+  <phrase title="style_property_group_footer_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Footer]]></phrase>
+  <phrase title="style_property_group_footer_master_desc" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Controls the bottom of the page]]></phrase>
+  <phrase title="style_property_group_formOverlay_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Form-Type Overlays]]></phrase>
+  <phrase title="style_property_group_formOverlay_master_desc" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of form-type overlays and their contents.]]></phrase>
+  <phrase title="style_property_group_form_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Forms]]></phrase>
+  <phrase title="style_property_group_form_master_desc" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Defines the layout and style of most forms in XenForo.]]></phrase>
+  <phrase title="style_property_group_general_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[General]]></phrase>
+  <phrase title="style_property_group_general_master_desc" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[General style settings for this style.]]></phrase>
+  <phrase title="style_property_group_header_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Header and Navigation]]></phrase>
+  <phrase title="style_property_group_header_master_desc" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Controls the appearance of the header and navigation elements of all pages.]]></phrase>
+  <phrase title="style_property_group_loginBar_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Login Bar]]></phrase>
+  <phrase title="style_property_group_loginBar_master_desc" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[The drop-down login form.]]></phrase>
+  <phrase title="style_property_group_memberListItem_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Member List Item]]></phrase>
+  <phrase title="style_property_group_memberListItem_master_desc" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles the blocks used for each member on the member list.]]></phrase>
+  <phrase title="style_property_group_memberProfile_master" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Member Profile Page]]></phrase>
+  <phrase title="style_property_group_memberProfile_master_desc" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Style properties for pages showing detailed information about members.]]></phrase>
+  <phrase title="style_property_group_messageLayout_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Message Layout]]></phrase>
+  <phrase title="style_property_group_messageLayout_master_desc" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Controls the layout of the full-size message template.]]></phrase>
+  <phrase title="style_property_group_message_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Message Elements]]></phrase>
+  <phrase title="style_property_group_message_master_desc" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the content area of the full message template.]]></phrase>
+  <phrase title="style_property_group_nodeIcons_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Node Icons]]></phrase>
+  <phrase title="style_property_group_nodeIcons_master_desc" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Styling for the icons that denote different node types.]]></phrase>
+  <phrase title="style_property_group_nodeList_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Forum / Node List]]></phrase>
+  <phrase title="style_property_group_nodeList_master_desc" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the appearance of the list of forums, categories, pages etc.]]></phrase>
+  <phrase title="style_property_group_notices_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Notices]]></phrase>
+  <phrase title="style_property_group_notices_master_desc" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Style properties for the notices system]]></phrase>
+  <phrase title="style_property_group_overlay_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Overlays and Tooltips]]></phrase>
+  <phrase title="style_property_group_overlay_master_desc" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styling for overlays and tooltips that allow content to be displayed on-top of regular page content.]]></phrase>
+  <phrase title="style_property_group_pageNav_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[PageNav, Link Groups and Tabs]]></phrase>
+  <phrase title="style_property_group_pageNav_master_desc" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls multi-page links, link groups and tabs other than those in the header.]]></phrase>
+  <phrase title="style_property_group_popup_master" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Popup Menus]]></phrase>
+  <phrase title="style_property_group_popup_master_desc" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Styling for most popup menu elements can be found here.]]></phrase>
+  <phrase title="style_property_group_sections_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Building Blocks]]></phrase>
+  <phrase title="style_property_group_sections_master_desc" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls building-block classes used for the vast majority of the XenForo interface.]]></phrase>
+  <phrase title="style_property_group_sidebar_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sidebar]]></phrase>
+  <phrase title="style_property_group_sidebar_master_desc" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the XenForo sidebar and various elements that appear within it.]]></phrase>
+  <phrase title="style_property_h1_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This styles the <H1> page title.]]></phrase>
+  <phrase title="style_property_h1_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Page Title]]></phrase>
+  <phrase title="style_property_headerLogoHeight_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Enter the height in pixels that you would like to reserve for the logo in the header.]]></phrase>
+  <phrase title="style_property_headerLogoHeight_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Height of Header Logo]]></phrase>
+  <phrase title="style_property_headerLogoPath_description_master" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[This path describes the location of the main logo image used in the header of all pages.]]></phrase>
+  <phrase title="style_property_headerLogoPath_master" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[Header Logo Image Path]]></phrase>
+  <phrase title="style_property_headerTabHeight_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_headerTabHeight_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Header Tab Height]]></phrase>
+  <phrase title="style_property_header_description_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Styling for the header background]]></phrase>
+  <phrase title="style_property_header_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Header]]></phrase>
+  <phrase title="style_property_heading_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Big, important headings]]></phrase>
+  <phrase title="style_property_heading_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Heading]]></phrase>
+  <phrase title="style_property_html_description_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This property controls the browser background and text.]]></phrase>
+  <phrase title="style_property_html_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[HTML]]></phrase>
+  <phrase title="style_property_imagePath_description_master" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[This path represents either the relative or absolute path to images used by the XenForo user interface. You may change this to point to a CDN if you wish.]]></phrase>
+  <phrase title="style_property_imagePath_master" addon_id="XenForo" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[Path to Images]]></phrase>
+  <phrase title="style_property_inlineModChecked_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The values specified here will be applied to items selected for inline moderation.]]></phrase>
+  <phrase title="style_property_inlineModChecked_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Inline Moderation Checked]]></phrase>
+  <phrase title="style_property_inlineMod_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_inlineMod_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Inline Moderation Checked]]></phrase>
+  <phrase title="style_property_linkGroupLinkSpacing_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the amount of separation between items in link groups.]]></phrase>
+  <phrase title="style_property_linkGroupLinkSpacing_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Link Group Link Spacing]]></phrase>
+  <phrase title="style_property_linkGroupLink_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Individual links within link groups, as defined above.]]></phrase>
+  <phrase title="style_property_linkGroupLink_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Link Group Link]]></phrase>
+  <phrase title="style_property_linkHover_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Styles normal textual links when hovered.]]></phrase>
+  <phrase title="style_property_linkHover_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Link, Hover State]]></phrase>
+  <phrase title="style_property_link_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[The default styling for textual hyperlinks.]]></phrase>
+  <phrase title="style_property_link_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Link]]></phrase>
+  <phrase title="style_property_loginBarCollapsedHeight_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[The height in pixels of the collapsed login bar.]]></phrase>
+  <phrase title="style_property_loginBarCollapsedHeight_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Login Bar Collapsed Height]]></phrase>
+  <phrase title="style_property_loginBarForm_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Controls the layout and appearance of the form element within the login bar.]]></phrase>
+  <phrase title="style_property_loginBarForm_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Login Form]]></phrase>
+  <phrase title="style_property_loginBarHandle_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Controls the appearance of the handle by which the login bar is activated.]]></phrase>
+  <phrase title="style_property_loginBarHandle_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Handle]]></phrase>
+  <phrase title="style_property_loginBarLink_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Textual hyperlinks within the login bar.]]></phrase>
+  <phrase title="style_property_loginBarLink_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Links]]></phrase>
+  <phrase title="style_property_loginBarTextCtrlDisabled_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Extra properties for text controls when disabled.]]></phrase>
+  <phrase title="style_property_loginBarTextCtrlDisabled_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Text Control: Disabled State]]></phrase>
+  <phrase title="style_property_loginBarTextCtrlFocus_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Extra properties for text controls when focused.]]></phrase>
+  <phrase title="style_property_loginBarTextCtrlFocus_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Text Control: Focus State]]></phrase>
+  <phrase title="style_property_loginBarTextCtrl_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Controls the appearance of text boxes in the login bar.]]></phrase>
+  <phrase title="style_property_loginBarTextCtrl_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Text Control]]></phrase>
+  <phrase title="style_property_loginBarUsername_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Additional properties to be applied to the login bar username input box.]]></phrase>
+  <phrase title="style_property_loginBarUsername_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Text Control: Username]]></phrase>
+  <phrase title="style_property_loginBar_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Controls the basic styling of the login bar.]]></phrase>
+  <phrase title="style_property_loginBar_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Container]]></phrase>
+  <phrase title="style_property_loginButtonWidth_description_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Minimum width of the primary log in button.]]></phrase>
+  <phrase title="style_property_loginButtonWidth_master" addon_id="XenForo" version_id="1000170" version_string="1.0.1"><![CDATA[Login button width]]></phrase>
+  <phrase title="style_property_memberListItemAvatar_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This property applies to the user avatar shown in member list items.]]></phrase>
+  <phrase title="style_property_memberListItemAvatar_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Avatar]]></phrase>
+  <phrase title="style_property_memberListItemContent_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Sometimes, info about a post or thread etc. will be shown inside a member list item. This applies styling to that content.]]></phrase>
+  <phrase title="style_property_memberListItemContent_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Content Info]]></phrase>
+  <phrase title="style_property_memberListItemExtendedWidth_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Width of fixed column in extended member list items.]]></phrase>
+  <phrase title="style_property_memberListItemExtendedWidth_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Fixed column width]]></phrase>
+  <phrase title="style_property_memberListItemExtra_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[On occasions, extra content is added to member list items. Use this to restyle it.]]></phrase>
+  <phrase title="style_property_memberListItemExtra_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Extra Content]]></phrase>
+  <phrase title="style_property_memberListItemGuest_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Applied in addition to the regular username styling.]]></phrase>
+  <phrase title="style_property_memberListItemGuest_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Username (Guests)]]></phrase>
+  <phrase title="style_property_memberListItemMember_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the style of the container for everything in the member list item except the user avatar.]]></phrase>
+  <phrase title="style_property_memberListItemMember_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[User Info Container]]></phrase>
+  <phrase title="style_property_memberListItemUserInfo_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This property is applied to the contain for all user info underneath the main username link.]]></phrase>
+  <phrase title="style_property_memberListItemUserInfo_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[User Info]]></phrase>
+  <phrase title="style_property_memberListItemUsername_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Applies to the main username link on member list items.]]></phrase>
+  <phrase title="style_property_memberListItemUsername_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Username]]></phrase>
+  <phrase title="style_property_memberListItemUserTitle_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[User titles in member list items are styled with this property.]]></phrase>
+  <phrase title="style_property_memberListItemUserTitle_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[User Title]]></phrase>
+  <phrase title="style_property_memberListItem_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of the container for member list items.]]></phrase>
+  <phrase title="style_property_memberListItem_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[List Item Container]]></phrase>
+  <phrase title="style_property_menuHeaderSubtitle_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The smaller text that sometimes appears below the main menu title.]]></phrase>
+  <phrase title="style_property_menuHeaderSubtitle_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu Header Subtitle]]></phrase>
+  <phrase title="style_property_menuHeaderTitle_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The large text that appears at the top of pop-up menus.]]></phrase>
+  <phrase title="style_property_menuHeaderTitle_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu Header Title]]></phrase>
+  <phrase title="style_property_menuMinHeight_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The minimum height for pop-up menus.]]></phrase>
+  <phrase title="style_property_menuMinHeight_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Minimum Menu Height]]></phrase>
+  <phrase title="style_property_menuMinWidth_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Defines the minimum width for all pop-up menus.]]></phrase>
+  <phrase title="style_property_menuMinWidth_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Minimum Menu Width]]></phrase>
+  <phrase title="style_property_menu_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The main container for the pop-up part of pop-up menus.]]></phrase>
+  <phrase title="style_property_menu_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Menu]]></phrase>
+  <phrase title="style_property_messageAvatarHolder_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Styles the block that surrounds the large avatar for a message author.]]></phrase>
+  <phrase title="style_property_messageAvatarHolder_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Avatar Holder]]></phrase>
+  <phrase title="style_property_messageContent_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This is used to enclose the message text and any other user-generated content for the message, such as attached files.]]></phrase>
+  <phrase title="style_property_messageContent_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Main Content]]></phrase>
+  <phrase title="style_property_messageExtraUserInfo_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Controls the appearance of the (optional) extra user info that can be displayed under the message poster's avatar and username.]]></phrase>
+  <phrase title="style_property_messageExtraUserInfo_master" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Extra User Info]]></phrase>
+  <phrase title="style_property_messageInfo_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This element contains the content area of the message template.
+
+In the default style, it is used to enclose the right column of the message template, which contains the message text and controls.]]></phrase>
+  <phrase title="style_property_messageInfo_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Content Container]]></phrase>
+  <phrase title="style_property_messageLikesSummary_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This styles the block that displays the summary of users who have liked the message.]]></phrase>
+  <phrase title="style_property_messageLikesSummary_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Likes]]></phrase>
+  <phrase title="style_property_messageList_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This is the container used for lists of messages.]]></phrase>
+  <phrase title="style_property_messageList_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Message List]]></phrase>
+  <phrase title="style_property_messageMetaControlActive_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_messageMetaControlActive_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Control, Active State]]></phrase>
+  <phrase title="style_property_messageMetaControlFocus_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_messageMetaControlFocus_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Control, Focus State]]></phrase>
+  <phrase title="style_property_messageMetaControlHover_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="style_property_messageMetaControlHover_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Control, Hover State]]></phrase>
+  <phrase title="style_property_messageMetaControl_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Defines the appearance of message controls such as Edit, Delete, Like, Reply.]]></phrase>
+  <phrase title="style_property_messageMetaControl_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Control]]></phrase>
+  <phrase title="style_property_messageMeta_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This block sits below the main content area and includes the inline moderation checkbox, permalink and message controls.]]></phrase>
+  <phrase title="style_property_messageMeta_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls Area]]></phrase>
+  <phrase title="style_property_messageNewIndicatorInner_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_messageNewIndicatorInner_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[New Indicator (Inner)]]></phrase>
+  <phrase title="style_property_messageNewIndicator_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_messageNewIndicator_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[New Indicator (Outer)]]></phrase>
+  <phrase title="style_property_messageNotice_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Notices are used to display information such as the message being in the moderation queue, or being deleted.]]></phrase>
+  <phrase title="style_property_messageNotice_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Notices]]></phrase>
+  <phrase title="style_property_messagePrivateControls_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Container for controls generally seen only by privileged visitors - Edit, Delete, IP etc.]]></phrase>
+  <phrase title="style_property_messagePrivateControls_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA['Private' Controls Container]]></phrase>
+  <phrase title="style_property_messagePublicControls_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Container for controls seen by general visitors - Like, Reply etc.]]></phrase>
+  <phrase title="style_property_messagePublicControls_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA['Public' Controls Container]]></phrase>
+  <phrase title="style_property_messageShowCustomFields_description_master" addon_id="XenForo" global_cache="1" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show any custom fields that are set to display in message user info. This setting is individually controlled by each custom field]]></phrase>
+  <phrase title="style_property_messageShowCustomFields_master" addon_id="XenForo" global_cache="1" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show custom user fields]]></phrase>
+  <phrase title="style_property_messageShowGender_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Show the gender of the message poster, if specified.]]></phrase>
+  <phrase title="style_property_messageShowGender_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show author gender]]></phrase>
+  <phrase title="style_property_messageShowHomepage_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Display a link to the homepage of the message author, if they have entered one.]]></phrase>
+  <phrase title="style_property_messageShowHomepage_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show author homepage link]]></phrase>
+  <phrase title="style_property_messageShowLocation_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Show the message author's location, if they have provided one.]]></phrase>
+  <phrase title="style_property_messageShowLocation_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show author location]]></phrase>
+  <phrase title="style_property_messageShowMessageCount_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Display the total number of messages posted by the message author.]]></phrase>
+  <phrase title="style_property_messageShowMessageCount_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show author message count]]></phrase>
+  <phrase title="style_property_messageShowOccupation_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Show the message poster's occupation, if specified.]]></phrase>
+  <phrase title="style_property_messageShowOccupation_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show author occupation]]></phrase>
+  <phrase title="style_property_messageShowRegisterDate_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Display the date on which the message author signed up.]]></phrase>
+  <phrase title="style_property_messageShowRegisterDate_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show author registration date]]></phrase>
+  <phrase title="style_property_messageShowTotalLikes_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Display the total number of times content by the message author has been 'liked'.]]></phrase>
+  <phrase title="style_property_messageShowTotalLikes_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show author total received likes]]></phrase>
+  <phrase title="style_property_messageShowTrophyPoints_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Display the message poster's total accumulation of trophy points.]]></phrase>
+  <phrase title="style_property_messageShowTrophyPoints_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Show author trophy points]]></phrase>
+  <phrase title="style_property_messageSignature_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_messageSignature_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Signature]]></phrase>
+  <phrase title="style_property_messageText_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The text shown in the body of full-size messages will be controlled by the values set in this property.
+
+It does not apply to small messages, such as profile posts and comments, which use the text styling from 'body'.]]></phrase>
+  <phrase title="style_property_messageText_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Message Text]]></phrase>
+  <phrase title="style_property_messageUserBlock_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This unit directly encloses the avatar, username and other user info for a message.]]></phrase>
+  <phrase title="style_property_messageUserBlock_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[User Info Block]]></phrase>
+  <phrase title="style_property_messageUserInfo_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This container encloses the avatar, username, user title and additional user info elements.
+
+Its primary purpose in the default style is to provide the left column of the message template.]]></phrase>
+  <phrase title="style_property_messageUserInfo_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[User Info Container]]></phrase>
+  <phrase title="style_property_messageUsername_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Styling for the name of the person who posted the message.]]></phrase>
+  <phrase title="style_property_messageUsername_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Author Username]]></phrase>
+  <phrase title="style_property_messageUserText_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Styles the container for the author username and user title next to messages.]]></phrase>
+  <phrase title="style_property_messageUserText_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[User Text Block]]></phrase>
+  <phrase title="style_property_messageUserTitle_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Controls the appearance of the user title displayed with the message poster's username.]]></phrase>
+  <phrase title="style_property_messageUserTitle_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Author User Title]]></phrase>
+  <phrase title="style_property_message_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This element entirely surrounds each message.]]></phrase>
+  <phrase title="style_property_message_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Message Container]]></phrase>
+  <phrase title="style_property_mutedTextColor_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_mutedTextColor_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Muted Text (-2)]]></phrase>
+  <phrase title="style_property_navLink_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls each individual navigation tab link.]]></phrase>
+  <phrase title="style_property_navLink_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Navigation Tab]]></phrase>
+  <phrase title="style_property_navTabLinkHover_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Styles links under the selected navigation tab, in their hover state.]]></phrase>
+  <phrase title="style_property_navTabLinkHover_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Selected Tab Link, Hover State]]></phrase>
+  <phrase title="style_property_navTabLink_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Styles each link in the row of controls below the selected navigation tab.]]></phrase>
+  <phrase title="style_property_navTabLink_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Selected Tab Sub-Link]]></phrase>
+  <phrase title="style_property_navTabSelected_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Styles the currently-selected header navigation tab.]]></phrase>
+  <phrase title="style_property_navTabSelected_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Selected Tab]]></phrase>
+  <phrase title="style_property_navTabs_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the container for the header navigation tabs.]]></phrase>
+  <phrase title="style_property_navTabs_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Navigation Tabs Container]]></phrase>
+  <phrase title="style_property_nodeDescriptionTipArrow_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[The triangle / arrow attached to node description tooltips]]></phrase>
+  <phrase title="style_property_nodeDescriptionTipArrow_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Description Tooltip Arrow]]></phrase>
+  <phrase title="style_property_nodeDescriptionTip_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_nodeDescriptionTip_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Description Tooltip]]></phrase>
+  <phrase title="style_property_nodeDescription_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the display of non-tooltip node description text.]]></phrase>
+  <phrase title="style_property_nodeDescription_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Node Description]]></phrase>
+  <phrase title="style_property_nodeIconForumUnread_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the appearance of the icon for forums with unread content.]]></phrase>
+  <phrase title="style_property_nodeIconForumUnread_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Node Icon: Unread Forum]]></phrase>
+  <phrase title="style_property_nodeIconForum_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the appearance of the icon for forums with no unread content.]]></phrase>
+  <phrase title="style_property_nodeIconForum_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Node Icon: Forum]]></phrase>
+  <phrase title="style_property_nodeIconLink_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the appearance of the icon for link-nodes.]]></phrase>
+  <phrase title="style_property_nodeIconLink_master" addon_id="XenForo" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Node Icon: Link]]></phrase>
+  <phrase title="style_property_nodeIconPage_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the appearance of the icon for pages.]]></phrase>
+  <phrase title="style_property_nodeIconPage_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Node Icon: Page]]></phrase>
+  <phrase title="style_property_nodeIcon_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the large icon shown on forum, page and link nodes.]]></phrase>
+  <phrase title="style_property_nodeIcon_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Node Icon]]></phrase>
+  <phrase title="style_property_nodeLastPost_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This controls the block of info describing the last post made within a forum (usually) node.]]></phrase>
+  <phrase title="style_property_nodeLastPost_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Node Last Post]]></phrase>
+  <phrase title="style_property_nodeListDescriptions_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Include descriptions underneath node titles on the main node list.]]></phrase>
+  <phrase title="style_property_nodeListDescriptions_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Show Forum Descriptions on Node List]]></phrase>
+  <phrase title="style_property_nodeListDescriptionTooltips_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Show descriptions only when hovering over forum titles on the main node list.]]></phrase>
+  <phrase title="style_property_nodeListDescriptionTooltips_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Enable Forum Descriptions Tooltips]]></phrase>
+  <phrase title="style_property_nodeStats_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the display of the total number of discussions, messages etc.]]></phrase>
+  <phrase title="style_property_nodeStats_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Node Statistics]]></phrase>
+  <phrase title="style_property_nodeText_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This controls the area within which the main text for node display is contained.]]></phrase>
+  <phrase title="style_property_nodeText_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Node Text Block]]></phrase>
+  <phrase title="style_property_nodeTinyIconHover_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Changes to be made to tiny icons when the mouse moves over them]]></phrase>
+  <phrase title="style_property_nodeTinyIconHover_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Tiny Icon - Hover]]></phrase>
+  <phrase title="style_property_nodeTinyIcon_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This controls the appearance of small icons such as the RSS feed icon.]]></phrase>
+  <phrase title="style_property_nodeTinyIcon_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Tiny Icon]]></phrase>
+  <phrase title="style_property_nodeTitleUnread_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Extra properties to apply to node titles when they contain unread content.]]></phrase>
+  <phrase title="style_property_nodeTitleUnread_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Node Title - Unread]]></phrase>
+  <phrase title="style_property_nodeTitle_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the display of non-category node titles]]></phrase>
+  <phrase title="style_property_nodeTitle_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Node Title]]></phrase>
+  <phrase title="style_property_noticeInterval_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Set the amount of time in milliseconds for which each notice is shown on screen before the next notice scrolls into view.]]></phrase>
+  <phrase title="style_property_noticeInterval_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Interval Between Notices]]></phrase>
+  <phrase title="style_property_noticeSpeed_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Enter a duration (in milliseconds) for the notice scroll animation. A value of zero will disable animation, and this value is subject to the XenForo global animation speed multiplier.]]></phrase>
+  <phrase title="style_property_noticeSpeed_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Animation speed for notices]]></phrase>
+  <phrase title="style_property_noticeVertical_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[By default, notices will scroll from side-to-side.]]></phrase>
+  <phrase title="style_property_noticeVertical_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Use vertical scrolling for notices]]></phrase>
+  <phrase title="style_property_ogLogoPath_description_master" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[This logo will be displayed in Facebook when a visitor likes a page on your site. Must be at least 50x50 and should be square.]]></phrase>
+  <phrase title="style_property_ogLogoPath_master" addon_id="XenForo" version_id="1000070" version_string="1.0.0"><![CDATA[Facebook Open Graph Logo]]></phrase>
+  <phrase title="style_property_overlayCloseControl_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles the 'close' gadget that is added when no other control is provided to close an overlay.]]></phrase>
+  <phrase title="style_property_overlayCloseControl_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Overlay Close Gadget]]></phrase>
+  <phrase title="style_property_overlayCloseSpeed_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Speed in milliseconds for overlays to fade out. Default: 100.]]></phrase>
+  <phrase title="style_property_overlayCloseSpeed_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Closing Speed]]></phrase>
+  <phrase title="style_property_overlayCtrlUnitLabelWidth_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Defines the width of the label area to the left of form control units within overlays.]]></phrase>
+  <phrase title="style_property_overlayCtrlUnitLabelWidth_master" addon_id="XenForo" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Form Control Unit Label Width in Overlays]]></phrase>
+  <phrase title="style_property_overlayFormWidth_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Controls the width of forms using the .xenForm class when being shown in an overlay.]]></phrase>
+  <phrase title="style_property_overlayFormWidth_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Form Width in Overlays]]></phrase>
+  <phrase title="style_property_overlayMaskColor_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_overlayMaskColor_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Mask Color]]></phrase>
+  <phrase title="style_property_overlayMaskOpacity_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Controls the degree of transparency of the mask applied to the background content when an overlay is shown. Default: 0.6; fully transparent: 0; fully opaque: 1.]]></phrase>
+  <phrase title="style_property_overlayMaskOpacity_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Mask Opacity]]></phrase>
+  <phrase title="style_property_overlaySection_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This is the property that controls the main container for overlays, including their border and shadow etc.]]></phrase>
+  <phrase title="style_property_overlaySection_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[General Overlay Container]]></phrase>
+  <phrase title="style_property_overlaySpeed_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Speed in milliseconds for overlays to fade in. Default: 200.]]></phrase>
+  <phrase title="style_property_overlaySpeed_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Opening Speed]]></phrase>
+  <phrase title="style_property_overlayTop_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Default position of overlays relative to the top of the browser window.]]></phrase>
+  <phrase title="style_property_overlayTop_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Overlay Top Position]]></phrase>
+  <phrase title="style_property_pageBackground_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_pageBackground_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Page Background]]></phrase>
+  <phrase title="style_property_pageDescription_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Styles the optional description text that may be presented below the page title.]]></phrase>
+  <phrase title="style_property_pageDescription_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Page Description]]></phrase>
+  <phrase title="style_property_pageNavCurrentPage_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[These rules are applied in addition to the normal page link rules in order to distinguish the current page.]]></phrase>
+  <phrase title="style_property_pageNavCurrentPage_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Current Page Link]]></phrase>
+  <phrase title="style_property_pageNavLinkGroup_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This element is used in instances where a page navigation block is placed alongside a group of links, such as above the list of threads on the forum view, or above the list of messages on thread view.]]></phrase>
+  <phrase title="style_property_pageNavLinkGroup_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav / Link Group Container]]></phrase>
+  <phrase title="style_property_pageNavLinkSpacing_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the amount of space between individual page navigation links.]]></phrase>
+  <phrase title="style_property_pageNavLinkSpacing_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Link Spacing]]></phrase>
+  <phrase title="style_property_pageNavLinkWidth_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This width is the basis for all page navigation links.]]></phrase>
+  <phrase title="style_property_pageNavLinkWidth_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Link Width]]></phrase>
+  <phrase title="style_property_pageNavLink_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Used to style each individual page navigation link including pages, next and previous buttons, and the scroll arrows.]]></phrase>
+  <phrase title="style_property_pageNavLink_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Item Link]]></phrase>
+  <phrase title="style_property_pageNavPageHover_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the appearance of page links when the mouse hovers over them.]]></phrase>
+  <phrase title="style_property_pageNavPageHover_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Page Link, Hover State]]></phrase>
+  <phrase title="style_property_pageNavPage_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls all page links.]]></phrase>
+  <phrase title="style_property_pageNavPage_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Page Link]]></phrase>
+  <phrase title="style_property_pageNavScroller_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Controls the appearance of the scroll buttons that appear when more than seven pages are available.]]></phrase>
+  <phrase title="style_property_pageNavScroller_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Scroll Button]]></phrase>
+  <phrase title="style_property_pageNav_description_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The container for the page navigation element, normally controls overall elements such as font size etc.]]></phrase>
+  <phrase title="style_property_pageNav_master" addon_id="XenForo" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[PageNav Container]]></phrase>
+  <phrase title="style_property_pageWidth_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The width of the page is controlled with this property. Use this to switch between liquid and fixed layouts.
+
+Liquid example: width: auto; margin: 0 20px;
+Fixed example: width: 960px; margin: auto;]]></phrase>
+  <phrase title="style_property_pageWidth_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Page Width Controller]]></phrase>
+  <phrase title="style_property_panelScrollerNavContainer_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the container of the navigation controls.]]></phrase>
+  <phrase title="style_property_panelScrollerNavContainer_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nav Container]]></phrase>
+  <phrase title="style_property_panelScrollerNavControlCurrent_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_property_panelScrollerNavControlCurrent_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nav Control, Selected State]]></phrase>
+  <phrase title="style_property_panelScrollerNavControlHover_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_property_panelScrollerNavControlHover_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nav Control, Hover State]]></phrase>
+  <phrase title="style_property_panelScrollerNavControl_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Styles each individual navigation control for the panel scroller.]]></phrase>
+  <phrase title="style_property_panelScrollerNavControl_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nav Control]]></phrase>
+  <phrase title="style_property_panelScrollerPanel_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Styling for individual panels in the notices system.]]></phrase>
+  <phrase title="style_property_panelScrollerPanel_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Panel]]></phrase>
+  <phrase title="style_property_panelScroller_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Styles the main outer container for notices / panel scrollers.]]></phrase>
+  <phrase title="style_property_panelScroller_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Main Container]]></phrase>
+  <phrase title="style_property_popupArrowClosed_description_master" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Points down, indicates the menu can be opened]]></phrase>
+  <phrase title="style_property_popupArrowClosed_master" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Popup Control Arrow (closed)]]></phrase>
+  <phrase title="style_property_popupArrowOpen_description_master" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Indicates that the menu can be closed]]></phrase>
+  <phrase title="style_property_popupArrowOpen_master" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Popup Control Arrow (open)]]></phrase>
+  <phrase title="style_property_popupControlClosedHover_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Controls the appearance of popup controls as the mouse passes over them when the menu is closed.]]></phrase>
+  <phrase title="style_property_popupControlClosedHover_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Popup Control (closed, hover)]]></phrase>
+  <phrase title="style_property_popupControl_description_master" addon_id="XenForo" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Popup menu trigger elements]]></phrase>
+  <phrase title="style_property_popupControl_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Popup Control (open)]]></phrase>
+  <phrase title="style_property_previewTooltipArrowInner_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[]]></phrase>
+  <phrase title="style_property_previewTooltipArrowInner_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Preview Tooltip Arrow (Inner)]]></phrase>
+  <phrase title="style_property_previewTooltipArrowOuter_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the arrow attached to content preview tooltips that points to the content.]]></phrase>
+  <phrase title="style_property_previewTooltipArrowOuter_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Preview Tooltip Arrow (Outer)]]></phrase>
+  <phrase title="style_property_previewTooltip_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[This defines the style of the element used for thread, and other content preview tooltips.]]></phrase>
+  <phrase title="style_property_previewTooltip_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Preview Tooltip]]></phrase>
+  <phrase title="style_property_primaryContentLink_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styling for links within primaryContent containers.]]></phrase>
+  <phrase title="style_property_primaryContentLink_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Primary Content Link]]></phrase>
+  <phrase title="style_property_primaryContent_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Most content uses this property]]></phrase>
+  <phrase title="style_property_primaryContent_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Content]]></phrase>
+  <phrase title="style_property_primaryDarker_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_primaryDarker_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Darker]]></phrase>
+  <phrase title="style_property_primaryDark_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_primaryDark_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Dark]]></phrase>
+  <phrase title="style_property_primaryLighterStill_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_primaryLighterStill_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Lighter Still]]></phrase>
+  <phrase title="style_property_primaryLighter_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_primaryLighter_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Lighter]]></phrase>
+  <phrase title="style_property_primaryLightest_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_primaryLightest_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Lightest]]></phrase>
+  <phrase title="style_property_primaryLightish_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_primaryLightish_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Light(ish)]]></phrase>
+  <phrase title="style_property_primaryLight_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_primaryLight_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Light]]></phrase>
+  <phrase title="style_property_primaryMedium_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_primaryMedium_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Primary Medium]]></phrase>
+  <phrase title="style_property_profilePageLastActivityText_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles text that describes where the user was last active.]]></phrase>
+  <phrase title="style_property_profilePageLastActivityText_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Last Activity Text]]></phrase>
+  <phrase title="style_property_profilePageSidebarInfoBlockDd_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the values for fields in sidebar info blocks.]]></phrase>
+  <phrase title="style_property_profilePageSidebarInfoBlockDd_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Sidebar Info Field Value]]></phrase>
+  <phrase title="style_property_profilePageSidebarInfoBlockDt_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the labels for data in info blocks.]]></phrase>
+  <phrase title="style_property_profilePageSidebarInfoBlockDt_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Sidebar Info Field Name]]></phrase>
+  <phrase title="style_property_profilePageSidebarInfoBlock_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Controls the styling of the outer section of sidebar info blocks.]]></phrase>
+  <phrase title="style_property_profilePageSidebarInfoBlock_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Sidebar Info Block]]></phrase>
+  <phrase title="style_property_profilePageSidebarWidth_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Specifies the width of the sidebar for the member profile page. This sidebar is usually the same width as the large avatar.]]></phrase>
+  <phrase title="style_property_profilePageSidebarWidth_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Sidebar Width]]></phrase>
+  <phrase title="style_property_profilePageTabHeight_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Controls the height of the tabs on the profile page.]]></phrase>
+  <phrase title="style_property_profilePageTabHeight_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Tab Height]]></phrase>
+  <phrase title="style_property_profilePageTabHover_description_master" addon_id="XenForo" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[Styles profile page tabs when hovered]]></phrase>
+  <phrase title="style_property_profilePageTabHover_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Tab, Hover State]]></phrase>
+  <phrase title="style_property_profilePageTabInset_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Controls the amount of indent from the notional left margin to the tabs area.]]></phrase>
+  <phrase title="style_property_profilePageTabInset_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Tab Inset]]></phrase>
+  <phrase title="style_property_profilePageTabSelected_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Additional styling for the selected tab on the profile page.]]></phrase>
+  <phrase title="style_property_profilePageTabSelected_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Tab, Selected State]]></phrase>
+  <phrase title="style_property_profilePageTab_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the tabs at the top of the profile page.]]></phrase>
+  <phrase title="style_property_profilePageTab_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Tab]]></phrase>
+  <phrase title="style_property_profilePageUsername_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the large heading showing the name of the person whose profile page this is.]]></phrase>
+  <phrase title="style_property_profilePageUsername_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[User Name]]></phrase>
+  <phrase title="style_property_profilePageUserStatus_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the text of the current user status message, if shown.]]></phrase>
+  <phrase title="style_property_profilePageUserStatus_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[User Status Text]]></phrase>
+  <phrase title="style_property_profilePage_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styles the outer container for the profile page elements.]]></phrase>
+  <phrase title="style_property_profilePage_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Profile Page Container]]></phrase>
+  <phrase title="style_property_redirectMessageContent_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles the content of redirect messages shown after AJAX submissions.]]></phrase>
+  <phrase title="style_property_redirectMessageContent_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Redirect Message Content]]></phrase>
+  <phrase title="style_property_redirectMessage_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styles the container for redirect messages that appear after some forms are submitted with AJAX.]]></phrase>
+  <phrase title="style_property_redirectMessage_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Redirect Message Container]]></phrase>
+  <phrase title="style_property_scrollableNotices_description_master" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[If enabled, all notices will be put into a single container that scrolls between them.]]></phrase>
+  <phrase title="style_property_scrollableNotices_master" addon_id="XenForo" version_id="1010170" version_string="1.1.1"><![CDATA[Enable scrollable notices]]></phrase>
+  <phrase title="style_property_secondaryContentLink_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Styling for links within secondaryContent containers.]]></phrase>
+  <phrase title="style_property_secondaryContentLink_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Secondary Content Link]]></phrase>
+  <phrase title="style_property_secondaryContent_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Secondary, or non-primary content]]></phrase>
+  <phrase title="style_property_secondaryContent_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Secondary Content]]></phrase>
+  <phrase title="style_property_secondaryDarker_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_secondaryDarker_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Secondary Darker]]></phrase>
+  <phrase title="style_property_secondaryDark_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_secondaryDark_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Secondary Dark]]></phrase>
+  <phrase title="style_property_secondaryLighter_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_secondaryLighter_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Secondary Lighter]]></phrase>
+  <phrase title="style_property_secondaryLightest_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_secondaryLightest_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Secondary Lightest]]></phrase>
+  <phrase title="style_property_secondaryLight_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_secondaryLight_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Secondary Light]]></phrase>
+  <phrase title="style_property_secondaryMedium_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_secondaryMedium_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Secondary Medium]]></phrase>
+  <phrase title="style_property_sectionFooter_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Footnotes or summary for a section]]></phrase>
+  <phrase title="style_property_sectionFooter_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Section Footer]]></phrase>
+  <phrase title="style_property_sectionMain_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[A specially emphasized version of 'Section'.]]></phrase>
+  <phrase title="style_property_sectionMain_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Section Main]]></phrase>
+  <phrase title="style_property_section_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Wraps around most content.]]></phrase>
+  <phrase title="style_property_section_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Section]]></phrase>
+  <phrase title="style_property_sidebarAvatarListAvatar_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarAvatarListAvatar_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Avatar List Avatar]]></phrase>
+  <phrase title="style_property_sidebarAvatarListItem_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarAvatarListItem_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Avatar List Item]]></phrase>
+  <phrase title="style_property_sidebarAvatarListUsername_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarAvatarListUsername_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Avatar List Username]]></phrase>
+  <phrase title="style_property_sidebarAvatarListUserTitle_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarAvatarListUserTitle_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Avatar List User Title]]></phrase>
+  <phrase title="style_property_sidebarBlockFootnote_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarBlockFootnote_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Block Footnote]]></phrase>
+  <phrase title="style_property_sidebarBlockHeading_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarBlockHeading_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Block Heading]]></phrase>
+  <phrase title="style_property_sidebarFollowedUsersAvatar_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarFollowedUsersAvatar_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Followed Users Avatar]]></phrase>
+  <phrase title="style_property_sidebarFollowedUsersItem_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarFollowedUsersItem_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Followed Users Item]]></phrase>
+  <phrase title="style_property_sidebarFollowedUsers_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarFollowedUsers_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Followed Users]]></phrase>
+  <phrase title="style_property_sidebarUserListUsernameFollowed_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarUserListUsernameFollowed_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[User List Followed Username]]></phrase>
+  <phrase title="style_property_sidebarUserListUsernameInvisible_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarUserListUsernameInvisible_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[User List Invisible Username]]></phrase>
+  <phrase title="style_property_sidebarUserListUsername_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_sidebarUserListUsername_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[User List Username]]></phrase>
+  <phrase title="style_property_sidebar_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the layout of the sidebar element.]]></phrase>
+  <phrase title="style_property_sidebar_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sidebar]]></phrase>
+  <phrase title="style_property_signupButtonActive_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_signupButtonActive_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sign-up Now Button, Active State]]></phrase>
+  <phrase title="style_property_signupButtonHover_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_signupButtonHover_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sign-up Now Button, Hover State]]></phrase>
+  <phrase title="style_property_signupButtonInner_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_signupButtonInner_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sign-up Now Button Inner]]></phrase>
+  <phrase title="style_property_signupButton_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_signupButton_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sign-up Now Button Container]]></phrase>
+  <phrase title="style_property_statusTooltipArrow_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[This styling is applied to user status message tooltip arrows, in addition to the regular tooltip arrow styling.]]></phrase>
+  <phrase title="style_property_statusTooltipArrow_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[User Status Tooltip Arrow]]></phrase>
+  <phrase title="style_property_statusTooltip_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[This styling is applied to tooltips showing user status messages, in addition to the regular tooltip styling.]]></phrase>
+  <phrase title="style_property_statusTooltip_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[User Status Tooltip]]></phrase>
+  <phrase title="style_property_subHeadingHover_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Occasionally, sub-headings may be used as block-level links. In these cases, this property controls what happens to the sub-heading link on hover.]]></phrase>
+  <phrase title="style_property_subHeadingHover_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sub-Heading, Hover State]]></phrase>
+  <phrase title="style_property_subHeading_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Smaller, more commonly-used headings]]></phrase>
+  <phrase title="style_property_subHeading_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Sub-Heading]]></phrase>
+  <phrase title="style_property_tabActive_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of the selected tab.]]></phrase>
+  <phrase title="style_property_tabActive_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab, Selected]]></phrase>
+  <phrase title="style_property_tabHover_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls general tabs in their hover state.]]></phrase>
+  <phrase title="style_property_tabHover_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab, Hover State]]></phrase>
+  <phrase title="style_property_tabsContainer_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of tabbed user interfaces other than those in the navigation bar.]]></phrase>
+  <phrase title="style_property_tabsContainer_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tabs Container]]></phrase>
+  <phrase title="style_property_tabsnav_admin" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Tab Navigation]]></phrase>
+  <phrase title="style_property_tab_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of individual tabs in general tabbed interfaces.]]></phrase>
+  <phrase title="style_property_tab_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab]]></phrase>
+  <phrase title="style_property_textCtrlBackground_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[]]></phrase>
+  <phrase title="style_property_textCtrlBackground_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Text Control Background]]></phrase>
+  <phrase title="style_property_textCtrlCode_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Additional styling to be applied to text controls if they are to contain code rather than regular text.]]></phrase>
+  <phrase title="style_property_textCtrlCode_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control, Monospace / Code]]></phrase>
+  <phrase title="style_property_textCtrlDisabled_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Additional styling to be applied to text controls in their disabled state.]]></phrase>
+  <phrase title="style_property_textCtrlDisabled_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control, Disabled State]]></phrase>
+  <phrase title="style_property_textCtrlFocus_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styling to be applied to text controls when they receive focus.]]></phrase>
+  <phrase title="style_property_textCtrlFocus_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control, Focused State]]></phrase>
+  <phrase title="style_property_textCtrlTextareaFocus_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Additional styling to be applied to text controls when focused if they are multi-line textarea types.]]></phrase>
+  <phrase title="style_property_textCtrlTextareaFocus_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Textarea, Focused State]]></phrase>
+  <phrase title="style_property_textCtrlText_description_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[]]></phrase>
+  <phrase title="style_property_textCtrlText_master" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Text Control Text]]></phrase>
+  <phrase title="style_property_textCtrl_description_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styling to be applied to <input type="text" /> and <textarea> text-editing elements.]]></phrase>
+  <phrase title="style_property_textCtrl_master" addon_id="XenForo" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control]]></phrase>
+  <phrase title="style_property_textHeading_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[A minor heading]]></phrase>
+  <phrase title="style_property_textHeading_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Text-Heading]]></phrase>
+  <phrase title="style_property_threadListDescriptions_description_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Display text underneath the main page title.]]></phrase>
+  <phrase title="style_property_threadListDescriptions_master" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Show forum descriptions on thread list]]></phrase>
+  <phrase title="style_property_titlePrefixHover_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the styling of title prefixes when your pointer hovers over them.]]></phrase>
+  <phrase title="style_property_titlePrefixHover_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Title Prefix, Hover State]]></phrase>
+  <phrase title="style_property_titlePrefix_description_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Controls the styling of prefixes attached to discussion titles throughout the system.]]></phrase>
+  <phrase title="style_property_titlePrefix_master" addon_id="XenForo" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Title Prefix]]></phrase>
+  <phrase title="style_property_tooltipArrow_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[The extra arrow often shown with tooltips.]]></phrase>
+  <phrase title="style_property_tooltipArrow_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Tooltip Arrow]]></phrase>
+  <phrase title="style_property_tooltipBackground_description_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="style_property_tooltipBackground_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Tooltip Background]]></phrase>
+  <phrase title="style_property_tooltip_description_master" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[The basic styling for all generic XenForo tooltips.]]></phrase>
+  <phrase title="style_property_tooltip_master" addon_id="XenForo" version_id="0" version_string=""><![CDATA[Tooltip]]></phrase>
+  <phrase title="style_property_ugcLinkHover_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Hovered user-generated links]]></phrase>
+  <phrase title="style_property_ugcLinkHover_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[User Generated Link (hover)]]></phrase>
+  <phrase title="style_property_ugcLink_description_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Styling for links posted in messages.]]></phrase>
+  <phrase title="style_property_ugcLink_master" addon_id="XenForo" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[User-Generated Link]]></phrase>
+  <phrase title="style_property_visitorPanelAvatar_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Layout for the visitor panel. The image size is controlled by the @visitorPanelAvatarSize property.]]></phrase>
+  <phrase title="style_property_visitorPanelAvatar_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Visitor Panel Avatar]]></phrase>
+  <phrase title="style_property_visitorPanelStats_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
+  <phrase title="style_property_visitorPanelStats_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Visitor Panel Stats]]></phrase>
+  <phrase title="style_property_visitorPanelUsername_description_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[The name of the logged-in visitor.]]></phrase>
+  <phrase title="style_property_visitorPanelUsername_master" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Visitor Panel Username]]></phrase>
+  <phrase title="subject" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[件名]]></phrase>
+  <phrase title="submitted_message_is_too_long_to_be_processed" addon_id="XenForo" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[The submitted message is too long to be processed. Please shorten it.]]></phrase>
+  <phrase title="subscribe" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Subscribe]]></phrase>
+  <phrase title="sub_forums" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[サブフォーラム]]></phrase>
+  <phrase title="sub_group" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sub Group]]></phrase>
+  <phrase title="super_administrator" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Super Administrator]]></phrase>
+  <phrase title="super_moderator" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Super Moderator]]></phrase>
+  <phrase title="super_moderators" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Super Moderators]]></phrase>
+  <phrase title="super_moderator_can_moderate_entire_board" addon_id="XenForo" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A super moderator can moderate the entire board.]]></phrase>
+  <phrase title="supported_formats_jpeg_png_gif" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Supported formats: JPEG, PNG, GIF]]></phrase>
+  <phrase title="sure_want_to_return_to_viewing_using_your_own_permission_set" addon_id="XenForo" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Are you sure you want to return to viewing using your own permission set?]]></phrase>
+  <phrase title="sure_you_want_to_clear_server_error_log" addon_id="XenForo" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[Are you sure you want to clear the server error log?]]></phrase>
+  <phrase title="sure_you_want_to_delete_this_server_error_log_entry" addon_id="XenForo" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Are you sure you want to delete this server error log entry?]]></phrase>
+  <phrase title="sure_you_want_to_resend_account_confirmation_email" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[本当にアカウント確認メールを再送しますか。今まで使われていたアカウント確認メールは無効になります。今度のアカウント確認メールは{email}に送信されます。]]></phrase>
+  
